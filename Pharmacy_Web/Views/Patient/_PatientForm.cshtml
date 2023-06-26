@@ -1,0 +1,52 @@
+﻿@model RegisterModel
+<form 
+      asp-action="@(string.IsNullOrEmpty(Model.Id)?"Add":"Edit")"
+      asp-controller="@(string.IsNullOrEmpty(Model.Id)?"Patient":"Account")"
+      data-ajax-method="post"
+      data-ajax="true"
+      data-ajax-success="onModalSuccess"
+      data-ajax-begin="onModalBegin"
+      data-ajax-failure="showErrorMessage"
+      data-ajax-complete="onModalComplete"
+      class="row">
+    <div class="col col-6">
+        <input type="hidden" asp-for="Id" placeholder="Full Name" />
+
+        <input class="form__input" asp-for="FullName" placeholder="Full Name" />
+        <span asp-validation-for="FullName" class="text-danger"></span>
+
+        <input class="form__input" asp-for="Email" placeholder="Email" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+
+        <input class="form__input" asp-for="PhoneNumber" placeholder="Phone Number" />
+        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+
+
+        <textarea class="form__input" style="height:100px;" asp-for="Address" placeholder="Address"></textarea>
+        <span asp-validation-for="Address" class="text-danger"></span>
+
+
+    </div>
+
+
+    <div class="col col-6">
+        <input class="form__input" type="text" asp-for="Age" placeholder="Age" />
+        <span asp-validation-for="Age" class="text-danger"></span>
+
+        <select class="form__input" asp-for="Gender">
+            <option value="Male">Male</option>
+            <option value="Female">Female</option>
+        </select>
+        @if (string.IsNullOrEmpty(Model.Id))
+        {
+                    <input class="form__input" asp-for="Password" placeholder="Password" />
+            <span asp-validation-for="Password" class="text-danger"></span>
+
+            <input class="form__input" asp-for="ConfirmPassword" placeholder="Confirm Password" />
+            <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+        }
+
+
+    </div>
+    <partial name="_PopUpModelFooter" />
+</form>

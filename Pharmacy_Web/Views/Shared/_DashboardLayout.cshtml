@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <title>@ViewData["Title"] - Saidaly Tech</title>
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0" />
+    <link rel="icon" type="image/png" href="~/img/logo.png">
+    <partial name="_DatatablesStyles" />
+    <partial name="_Styles"/>
+    @await RenderSectionAsync("Styles", false)
+</head>
+<body class="@ViewData["BodyClass"]">
+    <div class="page-wrapper">
+        <div id="sidebar-wrapper" class="sidebar-wrapper">
+            <div id="sidebar" class="sidebar">
+                <div id="logo-text" class="logo-sec d-flex justify-content-center align-items-center">
+                    <div class="d-flex justify-content-center align-items-center">
+
+                        <span class="logo-text">Saidaly Tech</span>
+                    </div>
+                </div>
+                <div class="user-info py-3">
+                    <div class="d-flex flex-column justify-content-center align-items-center">
+                        <div>
+                            <img src="~/img/logo.png" alt="profile" class="profile-img">
+                        </div>
+
+                    </div>
+                </div>
+                <div class="menus px-3">
+                    <ul class="nav flex-column">
+                        <li class="nav-item active-dash" active-when="Home">
+                            <a href="/" class="nav-link">
+                                <i class="fas fa-columns"></i> Dashboard
+                            </a>
+                        </li>
+                        <li class="nav-item" active-when="Patient">
+                            <a asp-controller="Patient" asp-action="Index" class="nav-link">
+                                <i class="fa-solid fa-bed-pulse"></i> Patients
+                            </a>
+                        </li>
+                        <li class="nav-item" active-when="Account">
+                            <a asp-controller="Account" asp-action="Index" class="nav-link">
+                                <i class="fa-solid fa-gear fa-fw"></i>Settings
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Authorization" asp-action="LogOut">
+                                <i class="fa-solid fa-right-from-bracket"></i>
+                                Logout
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+        @RenderBody()
+        @Html.AntiForgeryToken()
+    </div>
+    <partial name="_Scripts" />
+    <partial name="_DatatablesScripts" />
+    @await RenderSectionAsync("Scripts", false)
+</body>
+</html>

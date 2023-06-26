@@ -1,0 +1,24 @@
+﻿<script src="~/lib/datatables/js/jquery.datatables.min.js"></script>
+<script src="~/lib/datatables/js/datatables.bootstrap4.min.js"></script>
+<script src="~/lib/datatables-buttons/js/datatables.buttons.min.js"></script>
+<script src="~/lib/datatables.net-buttons-bs/buttons.bootstrap.min.js"></script>
+<script src="~/lib/jszip/jszip.min.js"></script>
+<script src="~/lib/pdfmake/pdfmake.min.js"></script>
+<script src="~/lib/pdfmake/vfs_fonts.min.js"></script>
+<script src="~/lib/datatables-buttons/js/buttons.html5.min.js"></script>
+<script src="~/lib/datatables-buttons/js/buttons.print.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $('#dataTable').DataTable({
+            pageLength: 10,
+            dom: 'Bfrtip',
+            order: [],
+            buttons: [],
+        });
+        $('input[type="search"]').removeClass();
+        $('input[type="search"]').addClass('form__input').attr('placeholder', 'Search Here..');
+        $("#dataTable_filter input").appendTo("#dataTable_filter");
+        $("#dataTable_filter label").remove();
+        $("#dataTable_filter").css("text-align", "left");
+    });
+</script>

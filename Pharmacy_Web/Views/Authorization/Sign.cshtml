@@ -1,0 +1,83 @@
+﻿@model SignModel
+@{
+    ViewData["Title"] = "Log In";
+    ViewData["BodyClass"] = "body-login";
+}
+
+<div class="main">
+    <div class="container a-container" id="a-container">
+        <form class="form" id="b-form" asp-controller="Authorization" asp-action="SignIn" method="post">
+            <h2 class="form_title title">WELCOME !</h2>
+            <input class="form__input" asp-for=" Login.Email" placeholder="Email" />
+            <span asp-validation-for=" Login.Email" class="text-danger"></span>
+            <input class="form__input" type="password" asp-for=" Login.Password" placeholder="Password" />
+            <span asp-validation-for=" Login.Password" class="text-danger"></span>
+            <a href="javascript:;" class="js-render-modal" data-title="Forgot Your Password"
+               data-url="/Authorization/ResetMyPassword">
+                Forgot Your Password ?
+            </a>
+            <input type="submit" class="form__button button" value="Sign In" />
+
+        </form>
+    </div> 
+    <div class="container b-container" id="b-container">
+        <form class="form" id="a-form" asp-controller="Authorization" asp-action="SignUp" method="post">
+            <h2 class="form_title logo">Saidaly Tech</h2>
+            <input class="form__input" asp-for=" Register.FullName" placeholder="Full Name" />
+            <span asp-validation-for="Register.FullName" class="text-danger"></span>
+
+            <select class="form__input" asp-for="Register.Gender">
+                <option value="Male">Male</option>
+                <option value="Female">Female</option>
+            </select>
+            <span asp-validation-for="Register.Gender" class="text-danger"></span>
+
+            <input class="form__input" asp-for=" Register.Email" placeholder="Email" />
+            <span asp-validation-for="Register.Email" class="text-danger"></span>
+
+            <input class="form__input" type="text" asp-for=" Register.Age" placeholder="Age" />
+            <span asp-validation-for="Register.Age" class="text-danger"></span>
+
+            <input class="form__input" asp-for=" Register.PhoneNumber" placeholder="Phone Number" />
+            <span asp-validation-for="Register.PhoneNumber" class="text-danger"></span>
+
+            <textarea class="form__input" style="height:100px;" asp-for=" Register.Address" placeholder="Address"></textarea>
+            <span asp-validation-for="Register.Address" class="text-danger"></span>
+
+            <input class="form__input" asp-for=" Register.Password" placeholder="Password" />
+            <span asp-validation-for="Register.Password" class="text-danger"></span>
+
+            <input class="form__input" asp-for=" Register.ConfirmPassword" placeholder="Confirm Password" />
+            <span asp-validation-for="Register.ConfirmPassword" class="text-danger"></span>
+            <input type="submit" class="form__button button" value="Sign Up" />
+
+        </form>
+    </div>
+   
+    <div class="switch" id="switch-cnt">
+        <div class="switch__circle"></div>
+        <div class="switch__circle switch__circle--t"></div>
+        <div class="switch__container" id="switch-c1">
+            <img src="~/img/logo.png" width="250px" height="250px">
+            <button class="switch__button button switch-btn">
+                 Sign Up
+            </button>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        </div>
+        <div style="margin-top: 0px;" class="switch__container is-hidden" id="switch-c2">
+            <img src="~/img/logo.png" width="250px" height="250px">
+            <button class="switch__button button switch-btn">
+                Sign In
+            </button>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        </div>
+    </div>
+</div>
+<partial name="_PopUpModel" />
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
+
+
+

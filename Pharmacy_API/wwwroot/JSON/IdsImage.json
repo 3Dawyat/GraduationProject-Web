@@ -1,0 +1,2270 @@
+[
+  {
+    "itemId": 36,
+    "itemName": "ACC 200mg 20 sachets  ",
+    "imageName": "https://localhost:44343/drugs/44.jpg",
+    "salesPrice": 28,
+    "categoryId": 4
+  },
+  {
+    "itemId": 44,
+    "itemName": "ACETORPHAN CHILDREN 30mg oral sachet  ",
+    "imageName": "https://localhost:44343/drugs/59.jpg",
+    "salesPrice": 10,
+    "categoryId": 37
+  },
+  {
+    "itemId": 45,
+    "itemName": "ACETORPHAN INFANT 10mg oral sachets  ",
+    "imageName": "https://localhost:44343/drugs/60.jpg",
+    "salesPrice": 5,
+    "categoryId": 37
+  },
+  {
+    "itemId": 61,
+    "itemName": "ACTIVATE 200mg 40 sugar coated tab.  ",
+    "imageName": "https://localhost:44343/drugs/129.jpg",
+    "salesPrice": 26,
+    "categoryId": 68
+  },
+  {
+    "itemId": 106,
+    "itemName": "AIG MINOXIDIL 2% scalp lotion  ",
+    "imageName": "https://localhost:44343/drugs/277.jpg",
+    "salesPrice": 35,
+    "categoryId": 75
+  },
+  {
+    "itemId": 108,
+    "itemName": "AIRONYL 2.5mg 20 tab.  ",
+    "imageName": "https://localhost:44343/drugs/279.jpg",
+    "salesPrice": 6,
+    "categoryId": 61
+  },
+  {
+    "itemId": 111,
+    "itemName": "ALBENDAZOLE 200mg/5ml 30ml susp.  ",
+    "imageName": "https://localhost:44343/drugs/301.jpg",
+    "salesPrice": 9.75,
+    "categoryId": 35
+  },
+  {
+    "itemId": 131,
+    "itemName": "ALERGAWAY 50mg/100ML SYRUP  ",
+    "imageName": "https://localhost:44343/drugs/337.jpg",
+    "salesPrice": 12,
+    "categoryId": 9
+  },
+  {
+    "itemId": 139,
+    "itemName": "ALEXGENTA  0.1% TOPICAL CREAM 15 GM  ",
+    "imageName": "https://localhost:44343/drugs/354.jpg",
+    "salesPrice": 4.75,
+    "categoryId": 7
+  },
+  {
+    "itemId": 148,
+    "itemName": "ALFABRIMO 0.2% eye dps. 5 ML  ",
+    "imageName": "https://localhost:44343/drugs/371.jpg",
+    "salesPrice": 33.6,
+    "categoryId": 30
+  },
+  {
+    "itemId": 152,
+    "itemName": "ALFASPECT 750 MG 7 S.F.C. TABS.  ",
+    "imageName": "https://localhost:44343/drugs/386.jpg",
+    "salesPrice": 43.25,
+    "categoryId": 19
+  },
+  {
+    "itemId": 155,
+    "itemName": "ALLERBAN S.R. 2mg 20 tab.  ",
+    "imageName": "https://localhost:44343/drugs/433.jpg",
+    "salesPrice": 19.5,
+    "categoryId": 48
+  },
+  {
+    "itemId": 164,
+    "itemName": "ALLERGYL 4 mg 200 tab.  ",
+    "imageName": "https://localhost:44343/drugs/451.jpg",
+    "salesPrice": 21,
+    "categoryId": 9
+  },
+  {
+    "itemId": 165,
+    "itemName": "ALLERGYNA 120mg 10 F.C. Tab.  ",
+    "imageName": "https://localhost:44343/drugs/452.jpg",
+    "salesPrice": 15,
+    "categoryId": 9
+  },
+  {
+    "itemId": 170,
+    "itemName": "ALMITAT 0.05% cream 15 GM  ",
+    "imageName": "https://localhost:44343/drugs/460.jpg",
+    "salesPrice": 6,
+    "categoryId": 11
+  },
+  {
+    "itemId": 182,
+    "itemName": "ALPHANOVA 0.15% sterile ophth. sol. 5 ML  ",
+    "imageName": "https://localhost:44343/drugs/493.jpg",
+    "salesPrice": 31.2,
+    "categoryId": 30
+  },
+  {
+    "itemId": 183,
+    "itemName": "ALPHANOVA PLUS ophth. sol.  ",
+    "imageName": "https://localhost:44343/drugs/494.jpg",
+    "salesPrice": 39,
+    "categoryId": 30
+  },
+  {
+    "itemId": 184,
+    "itemName": "ALTARGO 1% top.oint.  ",
+    "imageName": "https://localhost:44343/drugs/500.jpg",
+    "salesPrice": 31.5,
+    "categoryId": 7
+  },
+  {
+    "itemId": 186,
+    "itemName": "ALUKAST 20mg 20 F.C. tab.  ",
+    "imageName": "https://localhost:44343/drugs/505.jpg",
+    "salesPrice": 28.8,
+    "categoryId": 59
+  },
+  {
+    "itemId": 190,
+    "itemName": "ALZENTAL 200mg 6 F.C. Tab.  ",
+    "imageName": "https://localhost:44343/drugs/517.jpg",
+    "salesPrice": 15.75,
+    "categoryId": 35
+  },
+  {
+    "itemId": 191,
+    "itemName": "ALZENTAL 20mg/ml 20ml susp.  ",
+    "imageName": "https://localhost:44343/drugs/518.jpg",
+    "salesPrice": 6.55,
+    "categoryId": 35
+  },
+  {
+    "itemId": 195,
+    "itemName": "AMADOL 100mg S.R. 10 tab.  ",
+    "imageName": "https://localhost:44343/drugs/528.jpg",
+    "salesPrice": 9,
+    "categoryId": 31
+  },
+  {
+    "itemId": 209,
+    "itemName": "AMBROXOL 30 mg 20 tab.  ",
+    "imageName": "https://localhost:44343/drugs/543.jpg",
+    "salesPrice": 5.5,
+    "categoryId": 4
+  },
+  {
+    "itemId": 211,
+    "itemName": "AMBROXOL 75mg S.R 10Caps.  ",
+    "imageName": "https://localhost:44343/drugs/545.jpg",
+    "salesPrice": 9.25,
+    "categoryId": 4
+  },
+  {
+    "itemId": 227,
+    "itemName": "AMITRIPTINE 50mg 30 tab.  ",
+    "imageName": "https://localhost:44343/drugs/594.jpg",
+    "salesPrice": 18,
+    "categoryId": 41
+  },
+  {
+    "itemId": 228,
+    "itemName": "AMITRIPTINE 75mg S.R.caps.  ",
+    "imageName": "https://localhost:44343/drugs/595.jpg",
+    "salesPrice": 4.5,
+    "categoryId": 41
+  },
+  {
+    "itemId": 235,
+    "itemName": "AMOPHAGE 500mg 30 tab.  ",
+    "imageName": "https://localhost:44343/drugs/630.jpg",
+    "salesPrice": 10.5,
+    "categoryId": 79
+  },
+  {
+    "itemId": 244,
+    "itemName": "AMPICILLIN 125mg/5ml 30gm susp.  ",
+    "imageName": "https://localhost:44343/drugs/665.jpg",
+    "salesPrice": 2.5,
+    "categoryId": 67
+  },
+  {
+    "itemId": 246,
+    "itemName": "AMPICILLIN 500mg vial  ",
+    "imageName": "https://localhost:44343/drugs/667.jpg",
+    "salesPrice": 2.5,
+    "categoryId": 67
+  },
+  {
+    "itemId": 247,
+    "itemName": "AMPICILLIN FORTE 250mg/5ml  60ml susp.  ",
+    "imageName": "https://localhost:44343/drugs/668.jpg",
+    "salesPrice": 5.9,
+    "categoryId": 67
+  },
+  {
+    "itemId": 248,
+    "itemName": "AMPICILLIN FORTE 500MG 12 CAPS.  ",
+    "imageName": "https://localhost:44343/drugs/669.jpg",
+    "salesPrice": 7.6,
+    "categoryId": 67
+  },
+  {
+    "itemId": 250,
+    "itemName": "AMPICILLIN SODIUM 500mg I.M/I.V vial +SOLVENT  ",
+    "imageName": "https://localhost:44343/drugs/671.jpg",
+    "salesPrice": 5,
+    "categoryId": 67
+  },
+  {
+    "itemId": 258,
+    "itemName": "AMRICARNITINE 1gm/5ml 5 amp.  ",
+    "imageName": "https://localhost:44343/drugs/700.jpg",
+    "salesPrice": 26.4,
+    "categoryId": 23
+  },
+  {
+    "itemId": 265,
+    "itemName": "ANAFRONIL 25MG 30 TAB.  ",
+    "imageName": "https://localhost:44343/drugs/725.jpg",
+    "salesPrice": 36,
+    "categoryId": 41
+  },
+  {
+    "itemId": 266,
+    "itemName": "ANAFRONIL SR 75MG 20 F.C.TAB.  ",
+    "imageName": "https://localhost:44343/drugs/726.jpg",
+    "salesPrice": 47,
+    "categoryId": 41
+  },
+  {
+    "itemId": 271,
+    "itemName": "ANALLERGE 4 mg 60 tab.  ",
+    "imageName": "https://localhost:44343/drugs/733.jpg",
+    "salesPrice": 9,
+    "categoryId": 9
+  },
+  {
+    "itemId": 273,
+    "itemName": "ANARCOL 50mg 30 F.C. tab.  ",
+    "imageName": "https://localhost:44343/drugs/741.jpg",
+    "salesPrice": 285,
+    "categoryId": 31
+  },
+  {
+    "itemId": 278,
+    "itemName": "ANDOURISTAT 120 MG 20 F.C. TABLETS  ",
+    "imageName": "https://localhost:44343/drugs/760.jpg",
+    "salesPrice": 62,
+    "categoryId": 57
+  },
+  {
+    "itemId": 305,
+    "itemName": "ANTINAL 200MG 24 CAPS.  ",
+    "imageName": "https://localhost:44343/drugs/852.jpg",
+    "salesPrice": 21,
+    "categoryId": 37
+  },
+  {
+    "categoryId": 35,
+    "imageName": "https://localhost:44343/drugs/857.jpg",
+    "itemId": 309,
+    "itemName": "ANTIVER 100mg/5ml 30ml susp.  ",
+    "salesPrice": 6
+  },
+  {
+    "itemId": 311,
+    "itemName": "ANTIZOLE 200mg 2 tab.  ",
+    "imageName": "https://localhost:44343/drugs/859.jpg",
+    "salesPrice": 4,
+    "categoryId": 35
+  },
+  {
+    "itemId": 320,
+    "itemName": "APEXAZOLE 1% top. cream 15 GM  ",
+    "imageName": "https://localhost:44343/drugs/884.jpg",
+    "salesPrice": 10,
+    "categoryId": 40
+  },
+  {
+    "itemId": 321,
+    "itemName": "APEXAZOLE 1% topical lotion 15 ML  ",
+    "imageName": "https://localhost:44343/drugs/885.jpg",
+    "salesPrice": 11,
+    "categoryId": 40
+  },
+  {
+    "itemId": 322,
+    "itemName": "APEXIDONE 0.5mg 30 F.C.tab.  ",
+    "imageName": "https://localhost:44343/drugs/886.jpg",
+    "salesPrice": 49.5,
+    "categoryId": 29
+  },
+  {
+    "itemId": 339,
+    "itemName": "ARCALION 200mg 40 sugar coated tab.  ",
+    "imageName": "https://localhost:44343/drugs/960.jpg",
+    "salesPrice": 28.8,
+    "categoryId": 68
+  },
+  {
+    "itemId": 365,
+    "itemName": "ASTIN 10mg 10 tab.  ",
+    "imageName": "https://localhost:44343/drugs/1071.jpg",
+    "salesPrice": 14.4,
+    "categoryId": 9
+  },
+  {
+    "itemId": 366,
+    "itemName": "ASTIN 20MG 10 F.C.TAB.  ",
+    "imageName": "https://localhost:44343/drugs/1072.jpg",
+    "salesPrice": 14.4,
+    "categoryId": 9
+  },
+  {
+    "itemId": 367,
+    "itemName": "ASTIN 5mg/5ml 100ml syrup  ",
+    "imageName": "https://localhost:44343/drugs/1073.jpg",
+    "salesPrice": 14.4,
+    "categoryId": 9
+  },
+  {
+    "itemId": 378,
+    "itemName": "ATOR 20mg 10 F.C. Tab.  ",
+    "imageName": "https://localhost:44343/drugs/1124.jpg",
+    "salesPrice": 47,
+    "categoryId": 43
+  },
+  {
+    "itemId": 379,
+    "itemName": "ATOR 40mg 10 F.C. Tab.  ",
+    "imageName": "https://localhost:44343/drugs/1125.jpg",
+    "salesPrice": 67.5,
+    "categoryId": 43
+  },
+  {
+    "itemId": 381,
+    "itemName": "ATORSTAT 10mg 14 F.C.tab.  ",
+    "imageName": "https://localhost:44343/drugs/1130.jpg",
+    "salesPrice": 33.6,
+    "categoryId": 43
+  },
+  {
+    "itemId": 382,
+    "itemName": "ATORSTAT 20mg 14 SCORED TABS.  ",
+    "imageName": "https://localhost:44343/drugs/1131.jpg",
+    "salesPrice": 38,
+    "categoryId": 43
+  },
+  {
+    "itemId": 407,
+    "itemName": "AVICHEST 375mg 20 Caps.  ",
+    "imageName": "https://localhost:44343/drugs/1261.jpg",
+    "salesPrice": 6.8,
+    "categoryId": 4
+  },
+  {
+    "itemId": 408,
+    "itemName": "AVICHEST 5% 100ml syrup for adult  ",
+    "imageName": "https://localhost:44343/drugs/1262.jpg",
+    "salesPrice": 7,
+    "categoryId": 4
+  },
+  {
+    "itemId": 417,
+    "itemName": "AZADERM 20% CREAM 30 GM  ",
+    "imageName": "https://localhost:44343/drugs/1285.jpg",
+    "salesPrice": 21.6,
+    "categoryId": 9
+  },
+  {
+    "itemId": 471,
+    "itemName": "BETADERM 0.1% cream 15 GM  ",
+    "imageName": "https://localhost:44343/drugs/1508.jpg",
+    "salesPrice": 6.75,
+    "categoryId": 11
+  },
+  {
+    "itemId": 472,
+    "itemName": "BETADERM 0.1% topical oint. 15 GM  ",
+    "imageName": "https://localhost:44343/drugs/1509.jpg",
+    "salesPrice": 6.75,
+    "categoryId": 11
+  },
+  {
+    "itemId": 476,
+    "itemName": "BETADINE 10% 10 sterile gauze dressing 10*10 cm  ",
+    "imageName": "https://localhost:44343/drugs/1514.jpg",
+    "salesPrice": 26,
+    "categoryId": 65
+  },
+  {
+    "itemId": 480,
+    "itemName": "BETADINE ANTISEPTIC SOLN. 10% 200 ml  ",
+    "imageName": "https://localhost:44343/drugs/1518.jpg",
+    "salesPrice": 30,
+    "categoryId": 65
+  },
+  {
+    "itemId": 488,
+    "itemName": "BETAMETHASONE DIPROPIONATE 0.05% oint.  ",
+    "imageName": "https://localhost:44343/drugs/1530.jpg",
+    "salesPrice": 6,
+    "categoryId": 11
+  },
+  {
+    "itemId": 491,
+    "itemName": "BETASERC 16 mg 60 tab.  ",
+    "imageName": "https://localhost:44343/drugs/1537.jpg",
+    "salesPrice": 88.25,
+    "categoryId": 77
+  },
+  {
+    "itemId": 493,
+    "itemName": "BETASERC 8mg 100 tab.  ",
+    "imageName": "https://localhost:44343/drugs/1539.jpg",
+    "salesPrice": 63,
+    "categoryId": 77
+  },
+  {
+    "itemId": 529,
+    "itemName": "BISOLVON 4mg/2ml 5 AMPOULES  ",
+    "imageName": "https://localhost:44343/drugs/1694.jpg",
+    "salesPrice": 8.25,
+    "categoryId": 4
+  },
+  {
+    "itemId": 566,
+    "itemName": "BRICANYL 2.5mg 20 tab.  ",
+    "imageName": "https://localhost:44343/drugs/1791.jpg",
+    "salesPrice": 6,
+    "categoryId": 61
+  },
+  {
+    "itemId": 571,
+    "itemName": "BRINTELLIX 20mg 14 F.C. Tab.  ",
+    "imageName": "https://localhost:44343/drugs/1805.jpg",
+    "salesPrice": 351.5,
+    "categoryId": 41
+  },
+  {
+    "itemId": 580,
+    "itemName": "BRONOTROL 2.5mg/5ml 120ml syrup  ",
+    "imageName": "https://localhost:44343/drugs/1844.jpg",
+    "salesPrice": 7,
+    "categoryId": 61
+  },
+  {
+    "itemId": 598,
+    "itemName": "BURINEX 1mg 20 tab.  ",
+    "imageName": "https://localhost:44343/drugs/1871.jpg",
+    "salesPrice": 6.35,
+    "categoryId": 76
+  },
+  {
+    "itemId": 608,
+    "itemName": "BUTALINE 7.5mg E.R. 30 caps.  ",
+    "imageName": "https://localhost:44343/drugs/1892.jpg",
+    "salesPrice": 19.5,
+    "categoryId": 61
+  },
+  {
+    "itemId": 637,
+    "itemName": "CALCIUM FOLINATE 50mg/5ml vial  ",
+    "imageName": "https://localhost:44343/drugs/1981.jpg",
+    "salesPrice": 37.5,
+    "categoryId": 60
+  },
+  {
+    "itemId": 640,
+    "itemName": "CALCIUM FOLINATE STADA 10mg/ml (200mg) vial  ",
+    "imageName": "https://localhost:44343/drugs/1984.jpg",
+    "salesPrice": 150,
+    "categoryId": 60
+  },
+  {
+    "itemId": 641,
+    "itemName": "CALCIUM FOLINATE STADA 10mg/ml (500mg) vial  ",
+    "imageName": "https://localhost:44343/drugs/1985.jpg",
+    "salesPrice": 270,
+    "categoryId": 60
+  },
+  {
+    "itemId": 657,
+    "itemName": "CANDICURE 1 600mg 3 vag. Ovules  ",
+    "imageName": "https://localhost:44343/drugs/2041.jpg",
+    "salesPrice": 17.25,
+    "categoryId": 40
+  },
+  {
+    "itemId": 662,
+    "itemName": "CANDISTAN 1% topical powder. 20 GM  ",
+    "imageName": "https://localhost:44343/drugs/2047.jpg",
+    "salesPrice": 5,
+    "categoryId": 40
+  },
+  {
+    "itemId": 678,
+    "itemName": "CARBOLASE 375mg 20 Caps.  ",
+    "imageName": "https://localhost:44343/drugs/2089.jpg",
+    "salesPrice": 7.5,
+    "categoryId": 4
+  },
+  {
+    "itemId": 685,
+    "itemName": "CARDIOTIMIDE 20mg 20 tab.  ",
+    "imageName": "https://localhost:44343/drugs/2122.jpg",
+    "salesPrice": 31.2,
+    "categoryId": 76
+  },
+  {
+    "itemId": 700,
+    "itemName": "CARNITINE 1GM/5ML 5 AMP. I.V.  ",
+    "imageName": "https://localhost:44343/drugs/2155.jpg",
+    "salesPrice": 39.75,
+    "categoryId": 23
+  },
+  {
+    "itemId": 702,
+    "itemName": "CARNITOL 1gm/5ml 5 amp. I.V.  ",
+    "imageName": "https://localhost:44343/drugs/2157.jpg",
+    "salesPrice": 39.6,
+    "categoryId": 23
+  },
+  {
+    "itemId": 706,
+    "itemName": "CARNIVITA FORTE  30 F.C. Tab.  ",
+    "imageName": "https://localhost:44343/drugs/2161.jpg",
+    "salesPrice": 92.5,
+    "categoryId": 23
+  },
+  {
+    "itemId": 778,
+    "itemName": "CETIRIZINE 1% oral dps. 15 ML  ",
+    "imageName": "https://localhost:44343/drugs/2416.jpg",
+    "salesPrice": 8.5,
+    "categoryId": 9
+  },
+  {
+    "itemId": 800,
+    "itemName": "CHOLESTATE 10mg 10 F.C. TABS.  ",
+    "imageName": "https://localhost:44343/drugs/2471.jpg",
+    "salesPrice": 28.8,
+    "categoryId": 43
+  },
+  {
+    "itemId": 804,
+    "itemName": "CHOLILYSIS 20mg 10 tab.  ",
+    "imageName": "https://localhost:44343/drugs/2477.jpg",
+    "salesPrice": 20.4,
+    "categoryId": 43
+  },
+  {
+    "itemId": 805,
+    "itemName": "CHOLILYSIS 40mg 10tab.  ",
+    "imageName": "https://localhost:44343/drugs/2478.jpg",
+    "salesPrice": 32,
+    "categoryId": 43
+  },
+  {
+    "itemId": 815,
+    "itemName": "CIDOLUT NOR 5mg 20 tab.  ",
+    "imageName": "https://localhost:44343/drugs/2513.jpg",
+    "salesPrice": 18,
+    "categoryId": 74
+  },
+  {
+    "itemId": 818,
+    "itemName": "CIDOPHAGE 1000mg 20 F.C. TABS  ",
+    "imageName": "https://localhost:44343/drugs/2517.jpg",
+    "salesPrice": 9,
+    "categoryId": 79
+  },
+  {
+    "itemId": 827,
+    "itemName": "CILOXAN 3mg/ml eye/ear drops  ",
+    "imageName": "https://localhost:44343/drugs/2531.jpg",
+    "salesPrice": 24,
+    "categoryId": 19
+  },
+  {
+    "itemId": 884,
+    "itemName": "CLOPIXOL DEPOT 200mg/ml I.M. 10 amp.  ",
+    "imageName": "https://localhost:44343/drugs/2734.jpg",
+    "salesPrice": 448,
+    "categoryId": 29
+  },
+  {
+    "itemId": 1036,
+    "itemName": "DELAREX 5mg 20 F.C.tab.  ",
+    "imageName": "https://localhost:44343/drugs/3260.jpg",
+    "salesPrice": 20,
+    "categoryId": 9
+  },
+  {
+    "itemId": 1061,
+    "itemName": "DERMOFIX 2% powder 15 GM  ",
+    "imageName": "https://localhost:44343/drugs/3404.jpg",
+    "salesPrice": 27,
+    "categoryId": 40
+  },
+  {
+    "itemId": 1068,
+    "itemName": "DESLORASTAMINE 0.5mg/ml 120ml syrup  ",
+    "imageName": "https://localhost:44343/drugs/3423.jpg",
+    "salesPrice": 15,
+    "categoryId": 9
+  },
+  {
+    "itemId": 1132,
+    "itemName": "DIBIOTIMYCIN aerosol powder 150 ML  ",
+    "imageName": "https://localhost:44343/drugs/3599.jpg",
+    "salesPrice": 29.7,
+    "categoryId": 7
+  },
+  {
+    "itemId": 1175,
+    "itemName": "DISPERCAM 20mg 10 dispersible tab.  ",
+    "imageName": "https://localhost:44343/drugs/3708.jpg",
+    "salesPrice": 8.45,
+    "categoryId": 21
+  },
+  {
+    "itemId": 1176,
+    "itemName": "DISTOCIDE 600mg  4 f.c.tab.  ",
+    "imageName": "https://localhost:44343/drugs/3712.jpg",
+    "salesPrice": 11.45,
+    "categoryId": 35
+  },
+  {
+    "itemId": 1180,
+    "itemName": "DIZIREST B6 20 tab.  ",
+    "imageName": "https://localhost:44343/drugs/3723.jpg",
+    "salesPrice": 21,
+    "categoryId": 55
+  },
+  {
+    "itemId": 1182,
+    "itemName": "DOGMATIL 50MG 30 CAPS.  ",
+    "imageName": "https://localhost:44343/drugs/3740.jpg",
+    "salesPrice": 27,
+    "categoryId": 29
+  },
+  {
+    "itemId": 1203,
+    "itemName": "DOMPIDONE 100mg/100ml oral 100ml susp  ",
+    "imageName": "https://localhost:44343/drugs/3782.jpg",
+    "salesPrice": 6,
+    "categoryId": 55
+  },
+  {
+    "itemId": 1204,
+    "itemName": "DOMPIDONE 10mg 30 tab.  ",
+    "imageName": "https://localhost:44343/drugs/3783.jpg",
+    "salesPrice": 12.6,
+    "categoryId": 55
+  },
+  {
+    "itemId": 1205,
+    "itemName": "DOMPIDONE 30mg 6 supp.  ",
+    "imageName": "https://localhost:44343/drugs/3784.jpg",
+    "salesPrice": 7,
+    "categoryId": 55
+  },
+  {
+    "itemId": 1206,
+    "itemName": "DOMPIDONE 60 mg supp. (CANCELLED)  ",
+    "imageName": "https://localhost:44343/drugs/3785.jpg",
+    "salesPrice": 11,
+    "categoryId": 55
+  },
+  {
+    "itemId": 1207,
+    "itemName": "DONIFOXATE 40 MG 30 F.C. TABLETS  ",
+    "imageName": "https://localhost:44343/drugs/3794.jpg",
+    "salesPrice": 73.25,
+    "categoryId": 57
+  },
+  {
+    "itemId": 1208,
+    "itemName": "DONIFOXATE 80 MG 30 F.C. TABLETS  ",
+    "imageName": "https://localhost:44343/drugs/3795.jpg",
+    "salesPrice": 85.75,
+    "categoryId": 57
+  },
+  {
+    "itemId": 1214,
+    "itemName": "DORZOLAMOL eye drops 5 ML  ",
+    "imageName": "https://localhost:44343/drugs/3814.jpg",
+    "salesPrice": 30,
+    "categoryId": 30
+  },
+  {
+    "itemId": 1225,
+    "itemName": "DROTAVEX 200mg 36 Caps.  ",
+    "imageName": "https://localhost:44343/drugs/3864.jpg",
+    "salesPrice": 15,
+    "categoryId": 37
+  },
+  {
+    "itemId": 1227,
+    "itemName": "DUPHASTON 10mg 60 F.C. Tab.  ",
+    "imageName": "https://localhost:44343/drugs/3902.jpg",
+    "salesPrice": 126,
+    "categoryId": 28
+  },
+  {
+    "itemId": 1228,
+    "itemName": "DURAPEN S 1.2 M.I.U. vial for I.M  inj.  ",
+    "imageName": "https://localhost:44343/drugs/3908.jpg",
+    "salesPrice": 10.5,
+    "categoryId": 12
+  },
+  {
+    "itemId": 1242,
+    "itemName": "EBASTEL 1MG/ML SYRUP 100 ML  ",
+    "imageName": "https://localhost:44343/drugs/3975.jpg",
+    "salesPrice": 14.4,
+    "categoryId": 9
+  },
+  {
+    "itemId": 1244,
+    "itemName": "ECCOTRIOL TOPICAL OINTMENT 15 GM  ",
+    "imageName": "https://localhost:44343/drugs/3983.jpg",
+    "salesPrice": 19.2,
+    "categoryId": 16
+  },
+  {
+    "itemId": 1246,
+    "itemName": "ECONOPRED PLUS 1% eye drops  ",
+    "imageName": "https://localhost:44343/drugs/3989.jpg",
+    "salesPrice": 21.6,
+    "categoryId": 11
+  },
+  {
+    "itemId": 1255,
+    "itemName": "EDEMEX 0.25mg/ml  i.m/i.v 3 amp.  ",
+    "imageName": "https://localhost:44343/drugs/4022.jpg",
+    "salesPrice": 6.5,
+    "categoryId": 76
+  },
+  {
+    "itemId": 1257,
+    "itemName": "EFFECTURIN 40 MG 20 F.C. TABS.  ",
+    "imageName": "https://localhost:44343/drugs/4040.jpg",
+    "salesPrice": 36,
+    "categoryId": 57
+  },
+  {
+    "itemId": 1266,
+    "itemName": "EGYGASTREAZ 100MG/5ML PD. FOR ORAL 60ML SUSP.  ",
+    "imageName": "https://localhost:44343/drugs/4065.jpg",
+    "salesPrice": 12.5,
+    "categoryId": 37
+  },
+  {
+    "itemId": 1267,
+    "itemName": "EGYGASTREAZ 500MG 20 TAB.  ",
+    "imageName": "https://localhost:44343/drugs/4066.jpg",
+    "salesPrice": 28.5,
+    "categoryId": 37
+  },
+  {
+    "itemId": 1276,
+    "itemName": "ELIDEL 1% 15gram cream  ",
+    "imageName": "https://localhost:44343/drugs/4107.jpg",
+    "salesPrice": 120,
+    "categoryId": 16
+  },
+  {
+    "itemId": 1287,
+    "itemName": "ELOXATIN  50mg/10ml vial  ",
+    "imageName": "https://localhost:44343/drugs/4138.jpg",
+    "salesPrice": 1614,
+    "categoryId": 78
+  },
+  {
+    "itemId": 1288,
+    "itemName": "ELOXATIN 100mg/20ml vial  ",
+    "imageName": "https://localhost:44343/drugs/4139.jpg",
+    "salesPrice": 3067,
+    "categoryId": 78
+  },
+  {
+    "itemId": 1291,
+    "itemName": "EMADINE 0.05% eye drops  ",
+    "imageName": "https://localhost:44343/drugs/4148.jpg",
+    "salesPrice": 38,
+    "categoryId": 6
+  },
+  {
+    "itemId": 1295,
+    "itemName": "EMETREX 20 tab.  ",
+    "imageName": "https://localhost:44343/drugs/4163.jpg",
+    "salesPrice": 17,
+    "categoryId": 55
+  },
+  {
+    "itemId": 1296,
+    "itemName": "EMETREX ADULT 50mg/ml 3 amp.  ",
+    "imageName": "https://localhost:44343/drugs/4164.jpg",
+    "salesPrice": 12,
+    "categoryId": 55
+  },
+  {
+    "itemId": 1297,
+    "itemName": "EMEZINE 25/50mg 20 tab.  ",
+    "imageName": "https://localhost:44343/drugs/4165.jpg",
+    "salesPrice": 16,
+    "categoryId": 55
+  },
+  {
+    "itemId": 1305,
+    "itemName": "ENDOMETRIN 100mg 21 VAGINAL TABLETS  ",
+    "imageName": "https://localhost:44343/drugs/4189.jpg",
+    "salesPrice": 200,
+    "categoryId": 28
+  },
+  {
+    "itemId": 1306,
+    "itemName": "ENDSTAMINE 2.5mg/5ml syp. 120 ML  ",
+    "imageName": "https://localhost:44343/drugs/4194.jpg",
+    "salesPrice": 7,
+    "categoryId": 9
+  },
+  {
+    "itemId": 1314,
+    "itemName": "EPHEDRINE 30mg/ml 100 amp.  ",
+    "imageName": "https://localhost:44343/drugs/4237.jpg",
+    "salesPrice": 206,
+    "categoryId": 59
+  },
+  {
+    "itemId": 1316,
+    "itemName": "EPHEDRINE SULPHATE 50mg/ml 100 amp.  ",
+    "imageName": "https://localhost:44343/drugs/4239.jpg",
+    "salesPrice": 398,
+    "categoryId": 59
+  },
+  {
+    "itemId": 1318,
+    "itemName": "EPICOCILLIN 125mg/5ml 60ml susp.  ",
+    "imageName": "https://localhost:44343/drugs/4249.jpg",
+    "salesPrice": 5,
+    "categoryId": 67
+  },
+  {
+    "itemId": 1319,
+    "itemName": "EPICOCILLIN 1gm vial. I.M/I.V  ",
+    "imageName": "https://localhost:44343/drugs/4250.jpg",
+    "salesPrice": 5.75,
+    "categoryId": 67
+  },
+  {
+    "itemId": 1320,
+    "itemName": "EPICOCILLIN 250MG 12 CAPS.  ",
+    "imageName": "https://localhost:44343/drugs/4251.jpg",
+    "salesPrice": 6.5,
+    "categoryId": 67
+  },
+  {
+    "itemId": 1324,
+    "itemName": "EPICOCILLIN 500MG 16 CAPS.  ",
+    "imageName": "https://localhost:44343/drugs/4255.jpg",
+    "salesPrice": 12.6,
+    "categoryId": 67
+  },
+  {
+    "itemId": 1325,
+    "itemName": "EPICOCILLIN 500mg vial  ",
+    "imageName": "https://localhost:44343/drugs/4256.jpg",
+    "salesPrice": 5,
+    "categoryId": 67
+  },
+  {
+    "itemId": 1326,
+    "itemName": "EPICOTIL 20mg 10 F.C.tab.  ",
+    "imageName": "https://localhost:44343/drugs/4265.jpg",
+    "salesPrice": 21.25,
+    "categoryId": 21
+  },
+  {
+    "itemId": 1327,
+    "itemName": "EPICOTIL 20mg 5 ADULT Supp.  ",
+    "imageName": "https://localhost:44343/drugs/4266.jpg",
+    "salesPrice": 13.5,
+    "categoryId": 21
+  },
+  {
+    "itemId": 1328,
+    "itemName": "EPICOTIL 20mg I.M./I.V. 3 vial  ",
+    "imageName": "https://localhost:44343/drugs/4267.jpg",
+    "salesPrice": 16.5,
+    "categoryId": 21
+  },
+  {
+    "itemId": 1330,
+    "itemName": "EPICROM 4% eye drops 10 ML  ",
+    "imageName": "https://localhost:44343/drugs/4269.jpg",
+    "salesPrice": 9.7,
+    "categoryId": 9
+  },
+  {
+    "itemId": 1331,
+    "itemName": "EPIDEXONE 0.05% eye.oint. 5 GM  ",
+    "imageName": "https://localhost:44343/drugs/4271.jpg",
+    "salesPrice": 6,
+    "categoryId": 11
+  },
+  {
+    "itemId": 1332,
+    "itemName": "EPIDEXONE 1mg/ml eye/ear drops  ",
+    "imageName": "https://localhost:44343/drugs/4272.jpg",
+    "salesPrice": 5,
+    "categoryId": 11
+  },
+  {
+    "itemId": 1348,
+    "itemName": "EPINOR 400mg 14 tab.  ",
+    "imageName": "https://localhost:44343/drugs/4305.jpg",
+    "salesPrice": 21.6,
+    "categoryId": 19
+  },
+  {
+    "itemId": 1349,
+    "itemName": "EPIQUANTEL 600mg 4 F.C. TABS.  ",
+    "imageName": "https://localhost:44343/drugs/4311.jpg",
+    "salesPrice": 7,
+    "categoryId": 35
+  },
+  {
+    "itemId": 1352,
+    "itemName": "EPISOPT eye drops  ",
+    "imageName": "https://localhost:44343/drugs/4327.jpg",
+    "salesPrice": 50,
+    "categoryId": 30
+  },
+  {
+    "itemId": 1366,
+    "itemName": "ERASTAPEX TRIO 10/40/25mg 30 F.C. TABS.  ",
+    "imageName": "https://localhost:44343/drugs/4368.jpg",
+    "salesPrice": 78,
+    "categoryId": 49
+  },
+  {
+    "itemId": 1369,
+    "itemName": "ERDOLYTIC 175mg PD. FOR ORAL SUSP. 100 ML  ",
+    "imageName": "https://localhost:44343/drugs/4371.jpg",
+    "salesPrice": 27,
+    "categoryId": 4
+  },
+  {
+    "itemId": 1370,
+    "itemName": "ERDOLYTIC 300mg 20 hard gelatin Caps.  ",
+    "imageName": "https://localhost:44343/drugs/4372.jpg",
+    "salesPrice": 48.75,
+    "categoryId": 4
+  },
+  {
+    "itemId": 1375,
+    "itemName": "ESCITA 10mg 14 F.C. Tab.  ",
+    "imageName": "https://localhost:44343/drugs/4396.jpg",
+    "salesPrice": 77,
+    "categoryId": 41
+  },
+  {
+    "itemId": 1376,
+    "itemName": "ESCITALOBORG 20MG 10 TABLETS  ",
+    "imageName": "https://localhost:44343/drugs/4397.jpg",
+    "salesPrice": 35,
+    "categoryId": 41
+  },
+  {
+    "itemId": 1377,
+    "itemName": "ESCITALOBORG 5 MG 10 TABLETS  ",
+    "imageName": "https://localhost:44343/drugs/4398.jpg",
+    "salesPrice": 25.2,
+    "categoryId": 41
+  },
+  {
+    "itemId": 1378,
+    "itemName": "ESCITAPRAM 20mg f.c. tabs.  ",
+    "imageName": "https://localhost:44343/drugs/4400.jpg",
+    "salesPrice": 40,
+    "categoryId": 41
+  },
+  {
+    "itemId": 1379,
+    "itemName": "ESMERON 50mg/5ml I.V vial  ",
+    "imageName": "https://localhost:44343/drugs/4408.jpg",
+    "salesPrice": 41,
+    "categoryId": 18
+  },
+  {
+    "itemId": 1380,
+    "itemName": "ESTIKAN 20mg  7f.c.tab.  ",
+    "imageName": "https://localhost:44343/drugs/4432.jpg",
+    "salesPrice": 30,
+    "categoryId": 41
+  },
+  {
+    "itemId": 1382,
+    "itemName": "ETHINYL OESTRADIOL 50mcg 20tab.  ",
+    "imageName": "https://localhost:44343/drugs/4448.jpg",
+    "salesPrice": 7,
+    "categoryId": 28
+  },
+  {
+    "itemId": 1384,
+    "itemName": "ETIBI 500mg  25 f.c.tab  ",
+    "imageName": "https://localhost:44343/drugs/4454.jpg",
+    "salesPrice": 17,
+    "categoryId": 27
+  },
+  {
+    "itemId": 1400,
+    "itemName": "EVASTINE 10mg 20 F.C.tab.  ",
+    "imageName": "https://localhost:44343/drugs/4504.jpg",
+    "salesPrice": 28.8,
+    "categoryId": 9
+  },
+  {
+    "itemId": 1401,
+    "itemName": "EVASTINE 5mg/5ml 100ml syrup  ",
+    "imageName": "https://localhost:44343/drugs/4505.jpg",
+    "salesPrice": 14.4,
+    "categoryId": 9
+  },
+  {
+    "itemId": 1403,
+    "itemName": "EXARETIC 10mg 30 tab  ",
+    "imageName": "https://localhost:44343/drugs/4515.jpg",
+    "salesPrice": 51.5,
+    "categoryId": 76
+  },
+  {
+    "itemId": 1882,
+    "itemName": "IBIAMOX 400mg/5ml 80ml susp.  ",
+    "imageName": "https://localhost:44343/drugs/6141.jpg",
+    "salesPrice": 10.25,
+    "categoryId": 67
+  },
+  {
+    "itemId": 1899,
+    "itemName": "IDIXOR XR 75mg 7 CAPS.  ",
+    "imageName": "https://localhost:44343/drugs/6179.jpg",
+    "salesPrice": 32.5,
+    "categoryId": 41
+  },
+  {
+    "itemId": 1933,
+    "itemName": "INFLACAM 0.5% gel 15 GM  ",
+    "imageName": "https://localhost:44343/drugs/6256.jpg",
+    "salesPrice": 6,
+    "categoryId": 21
+  },
+  {
+    "itemId": 2649,
+    "itemName": "NIZORAL  2% topical shampoo 60 ML  ",
+    "imageName": "https://localhost:44343/drugs/8569.jpg",
+    "salesPrice": 42.25,
+    "categoryId": 40
+  },
+  {
+    "itemId": 2653,
+    "itemName": "NO GRAVIDA 12 Vaginal supp.  ",
+    "imageName": "https://localhost:44343/drugs/8576.jpg",
+    "salesPrice": 21.75,
+    "categoryId": 74
+  },
+  {
+    "itemId": 2917,
+    "itemName": "PERFORMA EXTRA STRENGTH 5% topical solution  ",
+    "imageName": "https://localhost:44343/drugs/9415.jpg",
+    "salesPrice": 77,
+    "categoryId": 75
+  },
+  {
+    "itemId": 2924,
+    "itemName": "PEVARYL 1% topical cream 15 GM  ",
+    "imageName": "https://localhost:44343/drugs/9444.jpg",
+    "salesPrice": 7,
+    "categoryId": 40
+  },
+  {
+    "itemId": 2926,
+    "itemName": "PHARMAGATIN 3mg/ml eye drops 5 ml  ",
+    "imageName": "https://localhost:44343/drugs/9486.jpg",
+    "salesPrice": 21.75,
+    "categoryId": 19
+  },
+  {
+    "itemId": 2927,
+    "itemName": "PHARMAPRESS 2mg/ml ophth. soln. 5 ml  ",
+    "imageName": "https://localhost:44343/drugs/9487.jpg",
+    "salesPrice": 31.2,
+    "categoryId": 30
+  },
+  {
+    "itemId": 2928,
+    "itemName": "PHARMASTIN 0.05% eye dps. 5 ML  ",
+    "imageName": "https://localhost:44343/drugs/9488.jpg",
+    "salesPrice": 32.5,
+    "categoryId": 6
+  },
+  {
+    "itemId": 2933,
+    "itemName": "PHENYTIN 100mg 50 Caps.  ",
+    "imageName": "https://localhost:44343/drugs/9516.jpg",
+    "salesPrice": 14.4,
+    "categoryId": 62
+  },
+  {
+    "itemId": 2934,
+    "itemName": "PHENYTIN 30mg/5ml 120ml susp.  ",
+    "imageName": "https://localhost:44343/drugs/9517.jpg",
+    "salesPrice": 7,
+    "categoryId": 62
+  },
+  {
+    "itemId": 2935,
+    "itemName": "PHENYTIN 50mg 50 Caps.  ",
+    "imageName": "https://localhost:44343/drugs/9518.jpg",
+    "salesPrice": 10,
+    "categoryId": 62
+  },
+  {
+    "itemId": 2936,
+    "itemName": "PHENYTIN 50mg/ml 100mg 10 amps.  ",
+    "imageName": "https://localhost:44343/drugs/9519.jpg",
+    "salesPrice": 42.5,
+    "categoryId": 62
+  },
+  {
+    "itemId": 2937,
+    "itemName": "PHENYTIN 50mg/ml 250mg 10amps.  ",
+    "imageName": "https://localhost:44343/drugs/9520.jpg",
+    "salesPrice": 36,
+    "categoryId": 62
+  },
+  {
+    "itemId": 2938,
+    "itemName": "PHILOZAC 10MG 10 CAPS.  ",
+    "imageName": "https://localhost:44343/drugs/9526.jpg",
+    "salesPrice": 9,
+    "categoryId": 41
+  },
+  {
+    "itemId": 2944,
+    "itemName": "PIRAFENE 2mg/5ml 120ml syrup  ",
+    "imageName": "https://localhost:44343/drugs/9589.jpg",
+    "salesPrice": 4.5,
+    "categoryId": 9
+  },
+  {
+    "itemId": 2945,
+    "itemName": "PIRAFENE 4mg 20tab.  ",
+    "imageName": "https://localhost:44343/drugs/9590.jpg",
+    "salesPrice": 2.45,
+    "categoryId": 9
+  },
+  {
+    "itemId": 2946,
+    "itemName": "PIRAFENE 5mg/ml 6 amp.  ",
+    "imageName": "https://localhost:44343/drugs/9591.jpg",
+    "salesPrice": 12,
+    "categoryId": 9
+  },
+  {
+    "itemId": 2948,
+    "itemName": "PIROXIDEN 20mg 12Caps.  ",
+    "imageName": "https://localhost:44343/drugs/9594.jpg",
+    "salesPrice": 6.75,
+    "categoryId": 21
+  },
+  {
+    "itemId": 2949,
+    "itemName": "PIROXIFAR 0.5% topical gel 30 GM  ",
+    "imageName": "https://localhost:44343/drugs/9595.jpg",
+    "salesPrice": 8,
+    "categoryId": 21
+  },
+  {
+    "itemId": 2950,
+    "itemName": "PIROXIFAR 20mg 10 dispersable tab.  ",
+    "imageName": "https://localhost:44343/drugs/9596.jpg",
+    "salesPrice": 8.5,
+    "categoryId": 21
+  },
+  {
+    "itemId": 2951,
+    "itemName": "PIROXIFAR 20mg 5 supp.  ",
+    "imageName": "https://localhost:44343/drugs/9597.jpg",
+    "salesPrice": 4,
+    "categoryId": 21
+  },
+  {
+    "itemId": 2952,
+    "itemName": "PIROXIFAR 20mg/ml 3 amp.  ",
+    "imageName": "https://localhost:44343/drugs/9598.jpg",
+    "salesPrice": 6.5,
+    "categoryId": 21
+  },
+  {
+    "itemId": 2953,
+    "itemName": "PLAQUVERAZON topical Oint. 15 GM  ",
+    "imageName": "https://localhost:44343/drugs/9611.jpg",
+    "salesPrice": 45,
+    "categoryId": 16
+  },
+  {
+    "itemId": 2954,
+    "itemName": "PLAQUVERAZON topical Oint. 30 GM  ",
+    "imageName": "https://localhost:44343/drugs/9612.jpg",
+    "salesPrice": 35,
+    "categoryId": 16
+  },
+  {
+    "itemId": 2971,
+    "itemName": "POLYBIOTIC SPRAY 110 GM  ",
+    "imageName": "https://localhost:44343/drugs/9647.jpg",
+    "salesPrice": 26.4,
+    "categoryId": 7
+  },
+  {
+    "itemId": 2972,
+    "itemName": "POLYBIOTIC SPRAY 60 GM  ",
+    "imageName": "https://localhost:44343/drugs/9648.jpg",
+    "salesPrice": 23.1,
+    "categoryId": 7
+  },
+  {
+    "itemId": 2977,
+    "itemName": "POSTADOXINE 20 tab.  ",
+    "imageName": "https://localhost:44343/drugs/9674.jpg",
+    "salesPrice": 14,
+    "categoryId": 55
+  },
+  {
+    "itemId": 2992,
+    "itemName": "POVIDONE 1% mouth wash  ",
+    "imageName": "https://localhost:44343/drugs/9698.jpg",
+    "salesPrice": 1.7,
+    "categoryId": 65
+  },
+  {
+    "itemId": 2993,
+    "itemName": "POVIDONE SKIN CLEANSER 7.5% topical solution  ",
+    "imageName": "https://localhost:44343/drugs/9700.jpg",
+    "salesPrice": 8,
+    "categoryId": 65
+  },
+  {
+    "itemId": 2994,
+    "itemName": "POVIDONE SKIN CLEANSER 7.5% topical solution.  ",
+    "imageName": "https://localhost:44343/drugs/9701.jpg",
+    "salesPrice": 80,
+    "categoryId": 65
+  },
+  {
+    "itemId": 3000,
+    "itemName": "PRAMOVER 20g top. Oint.  ",
+    "imageName": "https://localhost:44343/drugs/9722.jpg",
+    "salesPrice": 16.5,
+    "categoryId": 7
+  },
+  {
+    "itemId": 3001,
+    "itemName": "PRAMOVER 40g top. Oint.  ",
+    "imageName": "https://localhost:44343/drugs/9723.jpg",
+    "salesPrice": 27,
+    "categoryId": 7
+  },
+  {
+    "itemId": 3003,
+    "itemName": "PRAZIQUANTEL 1.8gm/15ml 15ml susp.  ",
+    "imageName": "https://localhost:44343/drugs/9728.jpg",
+    "salesPrice": 6.25,
+    "categoryId": 35
+  },
+  {
+    "itemId": 3004,
+    "itemName": "PRAZIQUANTEL 600mg  4 f.c.tab.  ",
+    "imageName": "https://localhost:44343/drugs/9729.jpg",
+    "salesPrice": 6.25,
+    "categoryId": 35
+  },
+  {
+    "itemId": 3005,
+    "itemName": "PRAZIQUANTEL 600mg 4 F.C.tab.  ",
+    "imageName": "https://localhost:44343/drugs/9730.jpg",
+    "salesPrice": 6.5,
+    "categoryId": 35
+  },
+  {
+    "itemId": 3008,
+    "itemName": "PRED FORTE 1% eye drops 5 ML  ",
+    "imageName": "https://localhost:44343/drugs/9737.jpg",
+    "salesPrice": 20.4,
+    "categoryId": 11
+  },
+  {
+    "itemId": 3031,
+    "itemName": "PRIMALAN 30mg/60ml 60ml syrup  ",
+    "imageName": "https://localhost:44343/drugs/9814.jpg",
+    "salesPrice": 5.7,
+    "categoryId": 9
+  },
+  {
+    "itemId": 3032,
+    "itemName": "PRIMALAN 5mg 14tab.  ",
+    "imageName": "https://localhost:44343/drugs/9815.jpg",
+    "salesPrice": 7.4,
+    "categoryId": 9
+  },
+  {
+    "itemId": 3039,
+    "itemName": "PROCIDAL 10% topical solution 200 ML  ",
+    "imageName": "https://localhost:44343/drugs/9861.jpg",
+    "salesPrice": 9,
+    "categoryId": 65
+  },
+  {
+    "itemId": 3040,
+    "itemName": "PROCIDAL 8.6% topical solution  ",
+    "imageName": "https://localhost:44343/drugs/9862.jpg",
+    "salesPrice": 8,
+    "categoryId": 65
+  },
+  {
+    "itemId": 3043,
+    "itemName": "PROFENAZONE 20 Caps.  ",
+    "imageName": "https://localhost:44343/drugs/9876.jpg",
+    "salesPrice": 12,
+    "categoryId": 18
+  },
+  {
+    "itemId": 3057,
+    "itemName": "PROGEST 100mg 24 Caps.  ",
+    "imageName": "https://localhost:44343/drugs/9890.jpg",
+    "salesPrice": 32.5,
+    "categoryId": 28
+  },
+  {
+    "itemId": 3058,
+    "itemName": "PROGESTERONE 400mg rectal or vag. Pessaries  ",
+    "imageName": "https://localhost:44343/drugs/9891.jpg",
+    "salesPrice": 51,
+    "categoryId": 28
+  },
+  {
+    "itemId": 3059,
+    "itemName": "PROGESTERONE KAHIRA 50MG/ML 10 AMP.  ",
+    "imageName": "https://localhost:44343/drugs/9892.jpg",
+    "salesPrice": 88.5,
+    "categoryId": 28
+  },
+  {
+    "itemId": 3063,
+    "itemName": "PRONTOGEST 100mg/2ml 10 I.M.amp.  ",
+    "imageName": "https://localhost:44343/drugs/9912.jpg",
+    "salesPrice": 124,
+    "categoryId": 28
+  },
+  {
+    "itemId": 3064,
+    "itemName": "PRONTOGEST 200mg 30 vaginal pessaries  ",
+    "imageName": "https://localhost:44343/drugs/9913.jpg",
+    "salesPrice": 109.25,
+    "categoryId": 28
+  },
+  {
+    "itemId": 3065,
+    "itemName": "PRONTOGEST 400mg 30 vaginal Pessaries  ",
+    "imageName": "https://localhost:44343/drugs/9914.jpg",
+    "salesPrice": 148,
+    "categoryId": 28
+  },
+  {
+    "itemId": 3066,
+    "itemName": "PROPHALLERGE 0.025% eye drops  ",
+    "imageName": "https://localhost:44343/drugs/9920.jpg",
+    "salesPrice": 6.5,
+    "categoryId": 48
+  },
+  {
+    "itemId": 3067,
+    "itemName": "PROPHALLERGE 1mg 20 tab  ",
+    "imageName": "https://localhost:44343/drugs/9921.jpg",
+    "salesPrice": 11,
+    "categoryId": 48
+  },
+  {
+    "itemId": 3068,
+    "itemName": "PROPHALLERGE 1mg/5ml 120ml syrup  ",
+    "imageName": "https://localhost:44343/drugs/9922.jpg",
+    "salesPrice": 11,
+    "categoryId": 48
+  },
+  {
+    "itemId": 3075,
+    "itemName": "PROSTAVASIN 20mcg amp.  ",
+    "imageName": "https://localhost:44343/drugs/9948.jpg",
+    "salesPrice": 165.2,
+    "categoryId": 77
+  },
+  {
+    "itemId": 3084,
+    "itemName": "PROTOSTOP 500mg 6 F.C. tab.  ",
+    "imageName": "https://localhost:44343/drugs/9977.jpg",
+    "salesPrice": 14.4,
+    "categoryId": 37
+  },
+  {
+    "itemId": 3085,
+    "itemName": "PROVERA 5mg 24 tab.  ",
+    "imageName": "https://localhost:44343/drugs/9981.jpg",
+    "salesPrice": 24,
+    "categoryId": 28
+  },
+  {
+    "itemId": 3088,
+    "itemName": "PSYCHODAL 1mg 10 oral Dis.tab.  ",
+    "imageName": "https://localhost:44343/drugs/9998.jpg",
+    "salesPrice": 21.6,
+    "categoryId": 29
+  },
+  {
+    "itemId": 3089,
+    "itemName": "PSYCHODAL 1mg 30 F.c. Tab.  ",
+    "imageName": "https://localhost:44343/drugs/9999.jpg",
+    "salesPrice": 63,
+    "categoryId": 29
+  },
+  {
+    "itemId": 3090,
+    "itemName": "PSYCHODAL 1mg/ml 30ml syrup  ",
+    "imageName": "https://localhost:44343/drugs/10000.jpg",
+    "salesPrice": 39.75,
+    "categoryId": 29
+  },
+  {
+    "itemId": 3091,
+    "itemName": "PSYCHODAL 2mg 10 oral Dis.tab.  ",
+    "imageName": "https://localhost:44343/drugs/10001.jpg",
+    "salesPrice": 27,
+    "categoryId": 29
+  },
+  {
+    "itemId": 3092,
+    "itemName": "PSYCHODAL 2mg 30 F.C.tab.  ",
+    "imageName": "https://localhost:44343/drugs/10002.jpg",
+    "salesPrice": 101,
+    "categoryId": 29
+  },
+  {
+    "itemId": 3093,
+    "itemName": "PSYCHODAL 3mg 30 F.C.tab.  ",
+    "imageName": "https://localhost:44343/drugs/10003.jpg",
+    "salesPrice": 117.75,
+    "categoryId": 29
+  },
+  {
+    "itemId": 3094,
+    "itemName": "PSYCHODAL 4mg 30 F.C. Tab.  ",
+    "imageName": "https://localhost:44343/drugs/10004.jpg",
+    "salesPrice": 138.75,
+    "categoryId": 29
+  },
+  {
+    "itemId": 3095,
+    "itemName": "PSYCHOPRAM 20 mg 20 f.c. tabs.  ",
+    "imageName": "https://localhost:44343/drugs/10006.jpg",
+    "salesPrice": 80,
+    "categoryId": 41
+  },
+  {
+    "itemId": 3106,
+    "itemName": "QUEENZOLAMIDE 20mg/ml eye drop  ",
+    "imageName": "https://localhost:44343/drugs/10054.jpg",
+    "salesPrice": 40,
+    "categoryId": 30
+  },
+  {
+    "itemId": 3639,
+    "itemName": "TARIFLOX  3mg/ml EYE DPS. 10 ML  ",
+    "imageName": "https://localhost:44343/drugs/11982.jpg",
+    "salesPrice": 8,
+    "categoryId": 19
+  },
+  {
+    "itemId": 3641,
+    "itemName": "TAROLIMUS 0.03% 15 GM TOPICAL OINTMENT  ",
+    "imageName": "https://localhost:44343/drugs/11988.jpg",
+    "salesPrice": 60,
+    "categoryId": 16
+  },
+  {
+    "itemId": 3642,
+    "itemName": "TAVEGYL 1mg 20 tab.  ",
+    "imageName": "https://localhost:44343/drugs/11998.jpg",
+    "salesPrice": 9,
+    "categoryId": 9
+  },
+  {
+    "itemId": 3643,
+    "itemName": "TAVEGYL 1mg/10ml 100ml syrup$  ",
+    "imageName": "https://localhost:44343/drugs/11999.jpg",
+    "salesPrice": 8.5,
+    "categoryId": 9
+  },
+  {
+    "itemId": 3644,
+    "itemName": "TAVEGYL 2mg/2ml 3 amp. I.M. I.V. inj.  ",
+    "imageName": "https://localhost:44343/drugs/12000.jpg",
+    "salesPrice": 10.8,
+    "categoryId": 9
+  },
+  {
+    "itemId": 3650,
+    "itemName": "TELFAST 120mg 20 F.C. tabs.  ",
+    "imageName": "https://localhost:44343/drugs/12042.jpg",
+    "salesPrice": 54,
+    "categoryId": 9
+  },
+  {
+    "itemId": 3651,
+    "itemName": "TELFAST 180mg 20 F.C. tabs.  ",
+    "imageName": "https://localhost:44343/drugs/12043.jpg",
+    "salesPrice": 75,
+    "categoryId": 9
+  },
+  {
+    "itemId": 3652,
+    "itemName": "TELFAST 30MG/5ML SUSP. 100 ML  ",
+    "imageName": "https://localhost:44343/drugs/12044.jpg",
+    "salesPrice": 20,
+    "categoryId": 9
+  },
+  {
+    "itemId": 3655,
+    "itemName": "TENDRATINE 25mg/5ml 100ml syrup  ",
+    "imageName": "https://localhost:44343/drugs/12055.jpg",
+    "salesPrice": 9,
+    "categoryId": 9
+  },
+  {
+    "itemId": 3658,
+    "itemName": "TENOCAM 20mg 10 Caps.  ",
+    "imageName": "https://localhost:44343/drugs/12058.jpg",
+    "salesPrice": 9,
+    "categoryId": 21
+  },
+  {
+    "itemId": 3659,
+    "itemName": "TENOCAM 20mg 5 supp.  ",
+    "imageName": "https://localhost:44343/drugs/12059.jpg",
+    "salesPrice": 6.5,
+    "categoryId": 21
+  },
+  {
+    "itemId": 3664,
+    "itemName": "TENOXICAM 20mg 20 Caps.  ",
+    "imageName": "https://localhost:44343/drugs/12070.jpg",
+    "salesPrice": 27,
+    "categoryId": 21
+  },
+  {
+    "itemId": 3665,
+    "itemName": "TENOXIL 20mg 10 tab.  ",
+    "imageName": "https://localhost:44343/drugs/12071.jpg",
+    "salesPrice": 10.5,
+    "categoryId": 21
+  },
+  {
+    "itemId": 3666,
+    "itemName": "TENOXIL 20mg I.V./I.M. lyophilized vial  ",
+    "imageName": "https://localhost:44343/drugs/12072.jpg",
+    "salesPrice": 3.5,
+    "categoryId": 21
+  },
+  {
+    "itemId": 3682,
+    "itemName": "TERBUTANYL 1.5mg/5ml 120ml syrup  ",
+    "imageName": "https://localhost:44343/drugs/12099.jpg",
+    "salesPrice": 4.75,
+    "categoryId": 61
+  },
+  {
+    "itemId": 3683,
+    "itemName": "TERBUTANYL 2.5 mg 20 tab.  ",
+    "imageName": "https://localhost:44343/drugs/12100.jpg",
+    "salesPrice": 5,
+    "categoryId": 61
+  },
+  {
+    "itemId": 3689,
+    "itemName": "TEXACORT 0.1% top. Lipocream  ",
+    "imageName": "https://localhost:44343/drugs/12131.jpg",
+    "salesPrice": 9,
+    "categoryId": 11
+  },
+  {
+    "itemId": 3716,
+    "itemName": "TIMOBRIM 0.2%/0.5% EYE DROPS 5 ML  ",
+    "imageName": "https://localhost:44343/drugs/12216.jpg",
+    "salesPrice": 47.25,
+    "categoryId": 30
+  },
+  {
+    "itemId": 3719,
+    "itemName": "TIMXAL ophthalmic sol.  ",
+    "imageName": "https://localhost:44343/drugs/12223.jpg",
+    "salesPrice": 66,
+    "categoryId": 30
+  },
+  {
+    "itemId": 3722,
+    "itemName": "TINIDOL PLUS 10 F.C. tab.  ",
+    "imageName": "https://localhost:44343/drugs/12230.jpg",
+    "salesPrice": 19.2,
+    "categoryId": 37
+  },
+  {
+    "itemId": 3723,
+    "itemName": "TINIFLOXACIN 10 tab.  ",
+    "imageName": "https://localhost:44343/drugs/12231.jpg",
+    "salesPrice": 39.75,
+    "categoryId": 37
+  },
+  {
+    "itemId": 3724,
+    "itemName": "TINOX 1% cream 15 GM  ",
+    "imageName": "https://localhost:44343/drugs/12232.jpg",
+    "salesPrice": 10,
+    "categoryId": 40
+  },
+  {
+    "itemId": 3725,
+    "itemName": "TINOX 1% LOTION 50 ML  ",
+    "imageName": "https://localhost:44343/drugs/12233.jpg",
+    "salesPrice": 24,
+    "categoryId": 40
+  },
+  {
+    "itemId": 3741,
+    "itemName": "TOLVON 30mg 10 F.C.tab  ",
+    "imageName": "https://localhost:44343/drugs/12279.jpg",
+    "salesPrice": 13.68,
+    "categoryId": 41
+  },
+  {
+    "itemId": 3748,
+    "itemName": "TOPMODE 50MG 30 CAPS.  ",
+    "imageName": "https://localhost:44343/drugs/12341.jpg",
+    "salesPrice": 8,
+    "categoryId": 29
+  },
+  {
+    "itemId": 3749,
+    "itemName": "TOPMODE FORTE 200mg 10tab.  ",
+    "imageName": "https://localhost:44343/drugs/12342.jpg",
+    "salesPrice": 8,
+    "categoryId": 29
+  },
+  {
+    "itemId": 3750,
+    "itemName": "TOPRANO 4mg 20 F.C.tab.  ",
+    "imageName": "https://localhost:44343/drugs/12346.jpg",
+    "salesPrice": 14,
+    "categoryId": 21
+  },
+  {
+    "itemId": 3751,
+    "itemName": "TOPRANO 8mg 20 F.C.tab.  ",
+    "imageName": "https://localhost:44343/drugs/12347.jpg",
+    "salesPrice": 20,
+    "categoryId": 21
+  },
+  {
+    "itemId": 3752,
+    "itemName": "TOPZOL 1% cream 20 GM  ",
+    "imageName": "https://localhost:44343/drugs/12350.jpg",
+    "salesPrice": 8,
+    "categoryId": 40
+  },
+  {
+    "itemId": 3753,
+    "itemName": "TORASTATIN 20mg 10 F.C.tab.  ",
+    "imageName": "https://localhost:44343/drugs/12353.jpg",
+    "salesPrice": 34.8,
+    "categoryId": 43
+  },
+  {
+    "itemId": 3754,
+    "itemName": "TORASTATIN 40mg 7 F.C.tab.  ",
+    "imageName": "https://localhost:44343/drugs/12354.jpg",
+    "salesPrice": 27,
+    "categoryId": 43
+  },
+  {
+    "itemId": 3756,
+    "itemName": "TORSAMOLEX 10mg 20 tabs.  ",
+    "imageName": "https://localhost:44343/drugs/12359.jpg",
+    "salesPrice": 24,
+    "categoryId": 76
+  },
+  {
+    "itemId": 3757,
+    "itemName": "TORSAMOLEX 20mg 20 tabs.  ",
+    "imageName": "https://localhost:44343/drugs/12360.jpg",
+    "salesPrice": 31.2,
+    "categoryId": 76
+  },
+  {
+    "itemId": 3758,
+    "itemName": "TORVAST 40mg 7 F.C.tab.  ",
+    "imageName": "https://localhost:44343/drugs/12366.jpg",
+    "salesPrice": 24,
+    "categoryId": 43
+  },
+  {
+    "itemId": 3761,
+    "itemName": "TOTISWIX 0.025% eye drops  ",
+    "imageName": "https://localhost:44343/drugs/12370.jpg",
+    "salesPrice": 7,
+    "categoryId": 48
+  },
+  {
+    "itemId": 3763,
+    "itemName": "TRAMA S.R.100mg 20 F.C.tab.  ",
+    "imageName": "https://localhost:44343/drugs/12376.jpg",
+    "salesPrice": 22,
+    "categoryId": 31
+  },
+  {
+    "itemId": 3765,
+    "itemName": "TRAMADOL 100mg/2ml 3 amp.  ",
+    "imageName": "https://localhost:44343/drugs/12378.jpg",
+    "salesPrice": 6.5,
+    "categoryId": 31
+  },
+  {
+    "itemId": 3766,
+    "itemName": "TRAMADOL 50MG 20CAPS.  ",
+    "imageName": "https://localhost:44343/drugs/12379.jpg",
+    "salesPrice": 10.7,
+    "categoryId": 31
+  },
+  {
+    "itemId": 3767,
+    "itemName": "TRAMAL 100mg/2ml 3 amp.  ",
+    "imageName": "https://localhost:44343/drugs/12380.jpg",
+    "salesPrice": 9,
+    "categoryId": 31
+  },
+  {
+    "itemId": 3768,
+    "itemName": "TRAMAL 100mg/ml oral drops.  ",
+    "imageName": "https://localhost:44343/drugs/12381.jpg",
+    "salesPrice": 18,
+    "categoryId": 31
+  },
+  {
+    "itemId": 3769,
+    "itemName": "TRAMAL 50MG 20 CAPS.  ",
+    "imageName": "https://localhost:44343/drugs/12382.jpg",
+    "salesPrice": 18,
+    "categoryId": 31
+  },
+  {
+    "itemId": 3770,
+    "itemName": "TRAMAX 50MG 30 HARD GELATIN CAPS.  ",
+    "imageName": "https://localhost:44343/drugs/12383.jpg",
+    "salesPrice": 14.4,
+    "categoryId": 31
+  },
+  {
+    "itemId": 3771,
+    "itemName": "TRAMUNDIN 100mg S.R. 10 tab.  ",
+    "imageName": "https://localhost:44343/drugs/12384.jpg",
+    "salesPrice": 13.5,
+    "categoryId": 31
+  },
+  {
+    "itemId": 3772,
+    "itemName": "TRAMUNDIN 150mg SR 10 tab.  ",
+    "imageName": "https://localhost:44343/drugs/12385.jpg",
+    "salesPrice": 16.25,
+    "categoryId": 31
+  },
+  {
+    "itemId": 3773,
+    "itemName": "TRAMUNDIN 200mg S.R. 10 tab.  ",
+    "imageName": "https://localhost:44343/drugs/12386.jpg",
+    "salesPrice": 19,
+    "categoryId": 31
+  },
+  {
+    "itemId": 3776,
+    "itemName": "TRAVOSWIX 0.004% eye drops 2.5 ML  ",
+    "imageName": "https://localhost:44343/drugs/12400.jpg",
+    "salesPrice": 70,
+    "categoryId": 30
+  },
+  {
+    "itemId": 3777,
+    "itemName": "TRAVOSWIX PLUS EYE DROPS 2.5 ML  ",
+    "imageName": "https://localhost:44343/drugs/12401.jpg",
+    "salesPrice": 80,
+    "categoryId": 30
+  },
+  {
+    "itemId": 3778,
+    "itemName": "TRAZONAGEN 1% topical cream 20 GM  ",
+    "imageName": "https://localhost:44343/drugs/12403.jpg",
+    "salesPrice": 18,
+    "categoryId": 40
+  },
+  {
+    "itemId": 3783,
+    "itemName": "TRETOFLAMIN 0.025% CREAM 20 GM  ",
+    "imageName": "https://localhost:44343/drugs/12426.jpg",
+    "salesPrice": 10.5,
+    "categoryId": 11
+  },
+  {
+    "itemId": 3794,
+    "itemName": "TRIOCEPT  21 tab. per strip (triphasic)  ",
+    "imageName": "https://localhost:44343/drugs/12498.jpg",
+    "salesPrice": 30,
+    "categoryId": 74
+  },
+  {
+    "itemId": 3803,
+    "itemName": "TRIVATRACIN AEROSOL POWDER  ",
+    "imageName": "https://localhost:44343/drugs/12524.jpg",
+    "salesPrice": 24,
+    "categoryId": 7
+  },
+  {
+    "itemId": 3806,
+    "itemName": "TROSYD 1% dermal  lotion 30 GM  ",
+    "imageName": "https://localhost:44343/drugs/12540.jpg",
+    "salesPrice": 9.8,
+    "categoryId": 40
+  },
+  {
+    "itemId": 3807,
+    "itemName": "TROSYD 1% dermal cream 20 GM  ",
+    "imageName": "https://localhost:44343/drugs/12541.jpg",
+    "salesPrice": 8.6,
+    "categoryId": 40
+  },
+  {
+    "itemId": 3809,
+    "itemName": "TROSYD 28% nail solution 5 ML  ",
+    "imageName": "https://localhost:44343/drugs/12543.jpg",
+    "salesPrice": 35.3,
+    "categoryId": 40
+  },
+  {
+    "itemId": 3810,
+    "itemName": "TROZAL 1% topical Cream 20 GM  ",
+    "imageName": "https://localhost:44343/drugs/12544.jpg",
+    "salesPrice": 8,
+    "categoryId": 40
+  },
+  {
+    "itemId": 3811,
+    "itemName": "TROZAL 1% topical lotion 30 ml  ",
+    "imageName": "https://localhost:44343/drugs/12545.jpg",
+    "salesPrice": 8.5,
+    "categoryId": 40
+  },
+  {
+    "itemId": 3812,
+    "itemName": "TROZAL 28% nail soln. 5 ml  ",
+    "imageName": "https://localhost:44343/drugs/12546.jpg",
+    "salesPrice": 20.4,
+    "categoryId": 40
+  },
+  {
+    "itemId": 3813,
+    "itemName": "TRUMENT TOPICAL Oint. 30 GM  ",
+    "imageName": "https://localhost:44343/drugs/12549.jpg",
+    "salesPrice": 31.5,
+    "categoryId": 16
+  },
+  {
+    "itemId": 3814,
+    "itemName": "TRUSOPT 2 % OPTHALMIC SOLUTION  ",
+    "imageName": "https://localhost:44343/drugs/12551.jpg",
+    "salesPrice": 57,
+    "categoryId": 30
+  },
+  {
+    "itemId": 3815,
+    "itemName": "TRYPTIZOL 10mg 100 tab.  ",
+    "imageName": "https://localhost:44343/drugs/12556.jpg",
+    "salesPrice": 21.25,
+    "categoryId": 41
+  },
+  {
+    "itemId": 3816,
+    "itemName": "TRYPTIZOL 25 mg 30 tab.  ",
+    "imageName": "https://localhost:44343/drugs/12557.jpg",
+    "salesPrice": 12,
+    "categoryId": 41
+  },
+  {
+    "itemId": 3820,
+    "itemName": "TWINRIX ADULT VACCINE prefilled syringe  ",
+    "imageName": "https://localhost:44343/drugs/12574.jpg",
+    "salesPrice": 180,
+    "categoryId": 70
+  },
+  {
+    "itemId": 3821,
+    "itemName": "TWINZOL eye drops  ",
+    "imageName": "https://localhost:44343/drugs/12575.jpg",
+    "salesPrice": 50,
+    "categoryId": 30
+  },
+  {
+    "itemId": 3823,
+    "itemName": "TYMER 0.3% eye drops 5 ML  ",
+    "imageName": "https://localhost:44343/drugs/12580.jpg",
+    "salesPrice": 38,
+    "categoryId": 19
+  },
+  {
+    "itemId": 3835,
+    "itemName": "ULTRADOL 100mg 3 amp.  ",
+    "imageName": "https://localhost:44343/drugs/12624.jpg",
+    "salesPrice": 12,
+    "categoryId": 31
+  },
+  {
+    "itemId": 3836,
+    "itemName": "ULTRADOL 100mg 6 supp.  ",
+    "imageName": "https://localhost:44343/drugs/12625.jpg",
+    "salesPrice": 12,
+    "categoryId": 31
+  },
+  {
+    "itemId": 3846,
+    "itemName": "UNIBIOTIC 250mg 5 F.C.tab.  ",
+    "imageName": "https://localhost:44343/drugs/12654.jpg",
+    "salesPrice": 30,
+    "categoryId": 19
+  },
+  {
+    "itemId": 3847,
+    "itemName": "UNIBIOTIC 500mg  5f.c.tab.  ",
+    "imageName": "https://localhost:44343/drugs/12655.jpg",
+    "salesPrice": 37.5,
+    "categoryId": 19
+  },
+  {
+    "itemId": 3867,
+    "itemName": "URICODROP 80 MG 30 F.C. TABS.  ",
+    "imageName": "https://localhost:44343/drugs/12761.jpg",
+    "salesPrice": 69,
+    "categoryId": 57
+  },
+  {
+    "itemId": 3888,
+    "itemName": "UTOPIA NEO topical oint. 20 GM  ",
+    "imageName": "https://localhost:44343/drugs/12799.jpg",
+    "salesPrice": 11,
+    "categoryId": 7
+  },
+  {
+    "itemId": 3891,
+    "itemName": "VAGIZOLE 2% VAGINAL CREAM 15 GM+3 APPLICATORS  ",
+    "imageName": "https://localhost:44343/drugs/12819.jpg",
+    "salesPrice": 36,
+    "categoryId": 65
+  },
+  {
+    "itemId": 3939,
+    "itemName": "VEDGE 500mg 30 enteric coated S.R. tab.  ",
+    "imageName": "https://localhost:44343/drugs/12955.jpg",
+    "salesPrice": 33,
+    "categoryId": 56
+  },
+  {
+    "itemId": 3940,
+    "itemName": "VEDGE 5gm/100ml 100ml syrup  ",
+    "imageName": "https://localhost:44343/drugs/12956.jpg",
+    "salesPrice": 12.6,
+    "categoryId": 56
+  },
+  {
+    "itemId": 3945,
+    "itemName": "VELCONAZOLE 2% TOPICAL CREAM 20 GM  ",
+    "imageName": "https://localhost:44343/drugs/12970.jpg",
+    "salesPrice": 17.7,
+    "categoryId": 40
+  },
+  {
+    "itemId": 3946,
+    "itemName": "VELGAROL 5mg/100gm top. Oint.  ",
+    "imageName": "https://localhost:44343/drugs/12971.jpg",
+    "salesPrice": 41,
+    "categoryId": 16
+  },
+  {
+    "itemId": 3947,
+    "itemName": "VENDOCID 20mg 10 cap.  ",
+    "imageName": "https://localhost:44343/drugs/12986.jpg",
+    "salesPrice": 9.4,
+    "categoryId": 21
+  },
+  {
+    "itemId": 3949,
+    "itemName": "VENTAIR 20mg 20 F.C. Tab.  ",
+    "imageName": "https://localhost:44343/drugs/13004.jpg",
+    "salesPrice": 50,
+    "categoryId": 59
+  },
+  {
+    "itemId": 3953,
+    "itemName": "VERMIN 100mg 6 tab.  ",
+    "imageName": "https://localhost:44343/drugs/13052.jpg",
+    "salesPrice": 3.5,
+    "categoryId": 35
+  },
+  {
+    "itemId": 3954,
+    "itemName": "VERMIN 100mg/5ml 30ml susp.  ",
+    "imageName": "https://localhost:44343/drugs/13053.jpg",
+    "salesPrice": 4,
+    "categoryId": 35
+  },
+  {
+    "itemId": 3955,
+    "itemName": "VERMIZOLE 200mg 6 tab.  ",
+    "imageName": "https://localhost:44343/drugs/13054.jpg",
+    "salesPrice": 7.9,
+    "categoryId": 35
+  },
+  {
+    "itemId": 3956,
+    "itemName": "VERMIZOLE 200mg/5ml 30ml susp.  ",
+    "imageName": "https://localhost:44343/drugs/13055.jpg",
+    "salesPrice": 9.75,
+    "categoryId": 35
+  },
+  {
+    "itemId": 3957,
+    "itemName": "VERSERC 16mg 30 tab.  ",
+    "imageName": "https://localhost:44343/drugs/13061.jpg",
+    "salesPrice": 40.5,
+    "categoryId": 77
+  },
+  {
+    "itemId": 3958,
+    "itemName": "VERSERC 24mg 30 tab.  ",
+    "imageName": "https://localhost:44343/drugs/13062.jpg",
+    "salesPrice": 54,
+    "categoryId": 77
+  },
+  {
+    "itemId": 3959,
+    "itemName": "VERSERC 8mg 30 tab.  ",
+    "imageName": "https://localhost:44343/drugs/13063.jpg",
+    "salesPrice": 23.65,
+    "categoryId": 77
+  },
+  {
+    "itemId": 3964,
+    "itemName": "VEXOL 1% ophth. soln. 5 ML  ",
+    "imageName": "https://localhost:44343/drugs/13082.jpg",
+    "salesPrice": 33,
+    "categoryId": 11
+  },
+  {
+    "itemId": 3967,
+    "itemName": "VICTOZA 3 ml 2 PRE-FILLED PEN S.C.  ",
+    "imageName": "https://localhost:44343/drugs/13105.jpg",
+    "salesPrice": 1348.25,
+    "categoryId": 80
+  },
+  {
+    "itemId": 3974,
+    "itemName": "VIGAMOX 0.5% EYE DROPS 5 ML  ",
+    "imageName": "https://localhost:44343/drugs/13122.jpg",
+    "salesPrice": 67.5,
+    "categoryId": 19
+  },
+  {
+    "itemId": 3976,
+    "itemName": "VILATOL 300mg 20 F.C.tab.  ",
+    "imageName": "https://localhost:44343/drugs/13128.jpg",
+    "salesPrice": 19.2,
+    "categoryId": 77
+  },
+  {
+    "itemId": 4021,
+    "itemName": "VOMIDOXINE 20 tab.  ",
+    "imageName": "https://localhost:44343/drugs/13342.jpg",
+    "salesPrice": 12,
+    "categoryId": 55
+  },
+  {
+    "itemId": 4022,
+    "itemName": "VOMIDOXINE 30mg 6 supp.  ",
+    "imageName": "https://localhost:44343/drugs/13343.jpg",
+    "salesPrice": 7,
+    "categoryId": 55
+  },
+  {
+    "itemId": 4023,
+    "itemName": "VOMISTOP 10 soft gelatin Caps.  ",
+    "imageName": "https://localhost:44343/drugs/13344.jpg",
+    "salesPrice": 7,
+    "categoryId": 55
+  },
+  {
+    "itemId": 4030,
+    "itemName": "WASH MIX 200ML MOUTH WASH  ",
+    "imageName": "https://localhost:44343/drugs/13362.jpg",
+    "salesPrice": 12.5,
+    "categoryId": 65
+  },
+  {
+    "itemId": 4035,
+    "itemName": "WELLOFUNG 2% topical cream 40 gm  ",
+    "imageName": "https://localhost:44343/drugs/13383.jpg",
+    "salesPrice": 21.75,
+    "categoryId": 40
+  },
+  {
+    "itemId": 4043,
+    "itemName": "WINDY 200mg 10 sachet  ",
+    "imageName": "https://localhost:44343/drugs/13408.jpg",
+    "salesPrice": 9,
+    "categoryId": 4
+  },
+  {
+    "itemId": 4047,
+    "itemName": "WORMINE 40mg/5ml 15ml syrup.  ",
+    "imageName": "https://localhost:44343/drugs/13418.jpg",
+    "salesPrice": 3.75,
+    "categoryId": 35
+  },
+  {
+    "itemId": 4048,
+    "itemName": "XALACOM eye drops  ",
+    "imageName": "https://localhost:44343/drugs/13426.jpg",
+    "salesPrice": 125,
+    "categoryId": 30
+  },
+  {
+    "itemId": 4057,
+    "itemName": "XANTHISTOP 80 MG 30 TABS.  ",
+    "imageName": "https://localhost:44343/drugs/13445.jpg",
+    "salesPrice": 79,
+    "categoryId": 57
+  },
+  {
+    "itemId": 4060,
+    "itemName": "XEFO 4mg 20 F.C. Tab.  ",
+    "imageName": "https://localhost:44343/drugs/13453.jpg",
+    "salesPrice": 23.25,
+    "categoryId": 21
+  },
+  {
+    "itemId": 4061,
+    "itemName": "XEFO 8mg 10 F.C. Tab.  ",
+    "imageName": "https://localhost:44343/drugs/13454.jpg",
+    "salesPrice": 28,
+    "categoryId": 21
+  },
+  {
+    "itemId": 4062,
+    "itemName": "XEFO 8mg/2ml vial for I.M./I.V. inj.  ",
+    "imageName": "https://localhost:44343/drugs/13455.jpg",
+    "salesPrice": 16.5,
+    "categoryId": 21
+  },
+  {
+    "itemId": 4067,
+    "itemName": "XILONE FORTE 15mg/5ml 100ml syrup  ",
+    "imageName": "https://localhost:44343/drugs/13477.jpg",
+    "salesPrice": 32.5,
+    "categoryId": 11
+  },
+  {
+    "itemId": 4072,
+    "itemName": "XOLA 20mg/ml eye drops  ",
+    "imageName": "https://localhost:44343/drugs/13488.jpg",
+    "salesPrice": 50,
+    "categoryId": 30
+  },
+  {
+    "itemId": 4089,
+    "itemName": "ZEDOTEFEN 1mg/1ml oral drops  ",
+    "imageName": "https://localhost:44343/drugs/13558.jpg",
+    "salesPrice": 11,
+    "categoryId": 48
+  },
+  {
+    "itemId": 4090,
+    "itemName": "ZEDOTEFEN 1mg/5ml 100ml syrup  ",
+    "imageName": "https://localhost:44343/drugs/13559.jpg",
+    "salesPrice": 8,
+    "categoryId": 48
+  },
+  {
+    "itemId": 4092,
+    "itemName": "ZEFICAM 4mg 20 F.C.tab.  ",
+    "imageName": "https://localhost:44343/drugs/13561.jpg",
+    "salesPrice": 13,
+    "categoryId": 21
+  },
+  {
+    "itemId": 4093,
+    "itemName": "ZEFICAM 8mg 20 F.C. TABS.  ",
+    "imageName": "https://localhost:44343/drugs/13562.jpg",
+    "salesPrice": 14,
+    "categoryId": 21
+  },
+  {
+    "itemId": 4094,
+    "itemName": "ZEFICAM 8mg/2ml vial for I.M./I.V. inj.  ",
+    "imageName": "https://localhost:44343/drugs/13563.jpg",
+    "salesPrice": 6.5,
+    "categoryId": 21
+  },
+  {
+    "itemId": 4095,
+    "itemName": "ZELDOX 40mg 7Caps.  ",
+    "imageName": "https://localhost:44343/drugs/13567.jpg",
+    "salesPrice": 75,
+    "categoryId": 29
+  },
+  {
+    "itemId": 4096,
+    "itemName": "ZELDOX 60mg 7Caps.  ",
+    "imageName": "https://localhost:44343/drugs/13568.jpg",
+    "salesPrice": 85,
+    "categoryId": 29
+  },
+  {
+    "itemId": 4097,
+    "itemName": "ZENGAPROST 0.004% eye drops. 5 ML  ",
+    "imageName": "https://localhost:44343/drugs/13577.jpg",
+    "salesPrice": 96,
+    "categoryId": 30
+  }
+]

@@ -1,0 +1,71 @@
+﻿@model RevealModel
+<form class="row"
+      data-ajax-begin="addReveal"
+      data-ajax-method="post"
+      data-ajax="true"
+      id="js-revealForm">
+    <div class="col col-6">
+        <label class="input-label" asp-for="PatientId"></label>
+        <select class="js-select"
+                asp-for="PatientId"
+                asp-items="@(new SelectList(Model?.Users, "Id", "FullName"))">
+            <option value="">Select Patient ...</option>
+        </select>
+        <span asp-validation-for="PatientId" class="text-danger d-block"></span>
+
+        <label class="input-label" asp-for="BloodPressure"></label>
+        <input class="form__input" asp-for="BloodPressure" placeholder="Blood Pressure" />
+        <span asp-validation-for="BloodPressure" class="text-danger"></span>
+
+        <label class="input-label" asp-for="Diabites"></label>
+        <input class="form__input" type="text" asp-for="Diabites" placeholder="Diabites" />
+        <span asp-validation-for="Diabites" class="text-danger"></span>
+
+        <label class="input-label" asp-for="BodyTempreature"></label>
+        <input class="form__input" type="text" asp-for="BodyTempreature" placeholder="Body Tempreature" />
+        <span asp-validation-for="BodyTempreature" class="text-danger"></span>
+
+        <label class="input-label" asp-for="Diagnosis"></label>
+        <textarea class="form__input" style="height:100px;" asp-for="Diagnosis" placeholder="Diagnosis"></textarea>
+        <span asp-validation-for="Diagnosis" class="text-danger"></span>
+
+        <label class="input-label" asp-for="Notes"></label>
+        <textarea class="form__input" style="height:100px;" asp-for="Notes" placeholder="Requirements And Notes"></textarea>
+        <span asp-validation-for="Notes" class="text-danger"></span>
+
+    </div>
+
+    <div class="col col-6">
+
+        <label class="input-label" asp-for="NextVisit"></label>
+        <input class="form__input" asp-for="NextVisit" />
+        <span asp-validation-for="NextVisit" class="text-danger"></span>
+
+
+        <div class="col col-6">
+            <label class="input-label">Medicine</label>
+            <select class="js-itemUnit js-select"
+                    asp-items="@(new SelectList(Model?.Medicine, "ItemUnitId", "Name"))">
+                <option value="">Select Medicine ...</option>
+            </select>
+            <label class="input-label">Medicine Qty</label>
+            <input class="form__input" id="js-medicineQty" type="number" min="1" max="99999" placeholder="Quantity" />
+        </div>
+        <div class="col col-6">
+            <label class="input-label">Treatment Method</label>
+            <input class="form__input" id="js-treatmentMethod" type="text" placeholder="Treatment Method" />
+            <a href="javascript:;" class="btn btn-primary btn-sm" onclick="addMedicine()">+</a>
+        </div>
+       
+        <div class="col col-6">
+            <ul id="js-medicine">
+            </ul>
+        </div>
+    </div>
+    <partial name="_PopUpModelFooter" />
+</form>
+
+
+
+
+

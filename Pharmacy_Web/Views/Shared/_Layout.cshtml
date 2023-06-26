@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"] - Saidaly Tech</title>
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0" />
+    <link rel="icon" type="image/png" href="~/img/logo.png">
+    <partial name="_Styles"/>
+    @await RenderSectionAsync("Styles", false)
+</head>
+<body class="@ViewData["BodyClass"]">
+    @RenderBody()
+    @Html.AntiForgeryToken()
+    <partial name="_Scripts" />
+    @await RenderSectionAsync("Scripts", false)
+</body>
+</html>

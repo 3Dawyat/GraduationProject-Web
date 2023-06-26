@@ -1,0 +1,14 @@
+﻿@model ApplicationUser
+<tr >
+    <td>@Model.Code</td>
+    <td class="text-nowrap">@Model.FullName</td>
+    <td class="text-nowrap">@Model.PhoneNumber</td>
+    <td class="text-nowrap">@Model.Age</td>
+    <td>@Model.Address</td>
+    <td>
+        <a asp-controller="Patient" asp-action="PatientProfile" asp-route-patientId="@Model.Id">
+            <i class="fa-solid fa-eye icon1"></i>
+        </a>
+    </td>
+
+</tr>

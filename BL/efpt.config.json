@@ -1,0 +1,101 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "PharmacyContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models\/DB_Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "Pharmacy_DomainModels",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[TbCategories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TbCustomers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TbDelivryMen]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TbItems]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TbItemUnits]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TbOrders]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TbOrdersItems]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TbPrinterSettings]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TbSalesInvoiceItems]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TbSalesInvoices]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TbUnits]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[VwItemsWithUnits]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[VwOrderHead]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[VwOrderItem]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[VwRoshetaBody]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[VwRoshetaHead]",
+         "ObjectType": 3
+      }
+   ],
+   "UiHint": "SRV-SQLDATA.PharmacySystem",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}

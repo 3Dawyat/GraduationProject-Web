@@ -1,0 +1,95 @@
+﻿@model RegisterModel
+@{
+    ViewData["Title"] = "Patient Profile";
+    ViewData["BodyClass"] = "";
+    Layout = "~/Views/Shared/_DashboardLayout.cshtml";
+}
+<div class="page-wrapper">
+    <div class="page-content-wrapper">
+        <div id="page-content" class="page-content">
+            <div id="top-bar" class="top-bar d-flex align-items-center">
+                <div class="d-flex justify-content-between align-items-center w-100">
+                    <div class="top-bar-left"><button id="toggler" class="toggler"><i class="fas fa-bars"></i></button></div>
+                    <div class="top-bar-right">
+                        <i class="ri-moon-line change-theme" id="theme-button"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="patient_info">
+                                <img class="patient-img" src="~/img/logo.png" alt="">
+                                <h5>Hello Dr , @Model.FullName</h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12 profile-data">
+                    <div class="card">
+                        <div class="card-body pt-3">
+                            <div class="tab-content pt-2">
+                                <div class="tab-pane fade profile-overview active show">
+
+                                    <div class="row">
+                                        <div class="col-lg-3 col-md-4 label fw-bold">Full Name</div>
+                                        <div class="col-lg-9 col-md-8">@Model.FullName</div>
+                                    </div>  
+                                    
+                                    <div class="row">
+                                        <div class="col-lg-3 col-md-4 label fw-bold">Phone Number</div>
+                                        <div class="col-lg-9 col-md-8">@Model.PhoneNumber</div>
+                                    </div>  
+                                    
+                                    <div class="row">
+                                        <div class="col-lg-3 col-md-4 label fw-bold">Address</div>
+                                        <div class="col-lg-9 col-md-8">@Model.Address</div>
+                                    </div>  
+                                    
+                                    <div class="row">
+                                        <div class="col-lg-3 col-md-4 label fw-bold">Age</div>
+                                        <div class="col-lg-9 col-md-8">@Model.Age</div>
+                                    </div>  
+                                    
+                                    <div class="row">
+                                        <div class="col-lg-3 col-md-4 label fw-bold">Email</div>
+                                        <div class="col-lg-9 col-md-8">@Model.Email</div>
+                                    </div>  
+                                    
+                                    <div class="row">
+                                        <div class="col-lg-3 col-md-4 label fw-bold">Role</div>
+                                        <div class="col-lg-9 col-md-8">Doctor</div>
+                                    </div>  
+                                    
+                                     <div class="row">
+                                        <div class="col-lg-3 col-md-4 label fw-bold">Gender</div>
+                                        <div class="col-lg-9 col-md-8">@Model.Gender</div>
+                                    </div>  
+                                    
+                                   
+                                </div>
+                                <br />
+                                <div class="button-add">
+                                    <a href="javascript:;" class="m-0 bg-secondary js-render-modal" data-title="Edit Account"
+                                       data-url="/Account/Edit/@User.FindFirstValue(ClaimTypes.NameIdentifier)">
+                                        <i class="fas fa-edit"></i> Edit Account
+                                    </a>
+                                    <a class="bg-secondary js-render-modal" data-title="Change Your Password"
+                               data-url="/Authorization/ChangePassword/@User.FindFirstValue(ClaimTypes.NameIdentifier)">
+                                <i class="fa-solid fa-key"></i>
+                                Change Password
+                            </a>
+                                </div>
+                            </div><!-- End Bordered Tabs -->
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<partial name="_PopUpModel" />

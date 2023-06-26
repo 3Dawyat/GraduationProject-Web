@@ -1,0 +1,86 @@
+﻿@model PatientProfileModel
+@{
+    ViewData["Title"] = "Patient Profile";
+    ViewData["BodyClass"] = "";
+    Layout = "~/Views/Shared/_DashboardLayout.cshtml";
+}
+<div class="page-wrapper">
+    <div class="page-content-wrapper">
+        <div id="page-content" class="page-content">
+            <div id="top-bar" class="top-bar d-flex align-items-center">
+                <div class="d-flex justify-content-between align-items-center w-100">
+                    <div class="top-bar-left"><button id="toggler" class="toggler"><i class="fas fa-bars"></i></button></div>
+                    <div class="top-bar-right">
+                        <i class="ri-moon-line change-theme" id="theme-button"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="patient_info">
+                                <img class="patient-img" src="~/img/@(Model.Profile.Gender=="Male"?"pationt.png": "pationt.png")" alt="">
+                                <h5>@Model.Profile.FullName</h5>
+                                <div class="info-patient">
+                                    <p><i class="fa-solid fa-phone"></i> @Model.Profile.PhoneNumber</p>
+                                    <p> <i class="fa-solid fa-calendar-days"></i> @Model.Profile.Age Years</p>
+                                    <p> <i class="fa-solid fa-location-dot"></i> @Model.Profile.Address</p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+
+                    <div class="table-responsive">
+                        <table class="table table-dash" id="dataTable">
+                            <thead>
+                                <tr>
+                                    <th>Code</th>
+                                    <th>Date</th>
+                                    <th class="text-nowrap">Pressure</th>
+                                    <th class="text-nowrap">Diabites</th>
+                                    <th class="text-nowrap">Tempreature</th>
+                                    <th class="text-wrap">Diagnosis</th>
+                                    <th>Actions</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var reveal in Model.Reveals.OrderByDescending(a=>a.Date))
+                                {
+                                    <tr>
+                                        <td>@reveal.RoshetaId</td>
+                                        <td class="text-nowrap">@reveal.Date</td>
+                                        <td class="text-nowrap">@reveal.BloodPressure</td>
+                                        <td class="text-nowrap">@reveal.Diabites</td>
+                                        <td class="text-nowrap">@reveal.BodyTempreature</td>
+                                        <td>@reveal.Diagnosis</td>
+                                        <td>
+                                            <a href="javascript:;" class="js-deleteRosheta"
+                                               data-url="/Reveal/DeleteRosheta/@reveal.RoshetaId">
+                                                <i class="fas fa-trash"></i>
+                                            </a>
+                                            <a asp-controller="Reveal" asp-action="Rosheta" asp-route-roshitaId="@reveal.RoshetaId">
+                                                <i class="fa-solid fa-eye icon1"></i>
+                                            </a>
+                                        </td>
+
+                                    </tr>
+                                }
+
+
+                            </tbody>
+                        </table>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<partial name="_PopUpModel" />

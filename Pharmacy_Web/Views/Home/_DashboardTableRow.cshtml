@@ -1,0 +1,18 @@
+﻿@model VwRoshetaHead
+<tr >
+    <td>@Model.RoshetaId</td>
+    <td class="text-nowrap">@Model.PatientName</td>
+    <td class="text-nowrap">@Model.Date</td>
+    <td class="text-nowrap">@Model.NextVisit</td>
+    <td >@Model.Diagnosis</td>
+    <td>
+        <a href="javascript:;" class="js-deleteRosheta"
+           data-url="/Reveal/DeleteRosheta/@Model.RoshetaId">
+            <i class="fas fa-trash"></i>
+        </a> 
+        <a asp-controller="Reveal" asp-action="Rosheta" asp-route-roshitaId="@Model.RoshetaId">
+            <i class="fa-solid fa-eye icon1"></i>
+        </a>
+    </td>
+
+</tr>

@@ -1,0 +1,96 @@
+﻿@model RoshetaModel
+@{
+    ViewData["Title"] = "Rosheta";
+    ViewData["BodyClass"] = "body-rosheta";
+}
+
+<div class="rosheta">
+    <button onclick="window.print()"><i class="fas fa-print"></i></button>
+    <div class="head container-fluid">
+        <div class="row">
+            <div class="col col-6 right">
+                <h3>Doctor , @Model.Head.DoctorName</h3>
+                <p>Address : @Model.Head.DoctorAddress</p>
+                <p>Phone Number : @Model.Head.DoctorPhoneNumber</p>
+            </div>
+            <div class="col col-6 left">
+                <div class="logo"><img src="~/img/rosheta.jpg" alt=""></div>
+            </div>
+        </div>
+    </div><br>
+    <div class="container-fluid head-info">
+        <h4>Patient Information</h4>
+        <div class="row">
+            <div class="col col-6 right">
+
+                <div class="roshetaHeadTitle">
+                    <label>Patient Name :</label>
+                    <span>@Model.Head.PatientName</span>
+                </div>
+                <div class="roshetaHeadTitle">
+                    <label>Gender :</label>
+                    <span>@Model.Head.PatientGender</span>
+                </div>
+                <div class="roshetaHeadTitle">
+                    <label>Age :</label>
+                    <span>@Model.Head.PatientAge</span>
+                </div>
+                <div class="roshetaHeadTitle">
+                    <label>Date :</label>
+                    <span>@Model.Head.Date</span>
+                </div>
+                <div class="roshetaHeadTitle">
+                    <label> Diagnosis :</label>
+                    <span> @Model.Head.Diagnosis</span>
+                </div>
+            </div>
+            <div class="col col-6 left">
+                <div class="roshetaHeadTitle">
+                    <label>Pressure :</label>
+                    <span>@Model.Head.BloodPressure</span>
+                </div>
+                <div class="roshetaHeadTitle">
+                    <label>Diabites :</label>
+                    <span>@Model.Head.Diabites</span>
+                </div>
+                <div class="roshetaHeadTitle">
+                    <label>Phone Number :</label>
+                    <span>@Model.Head.PatientPhoneNumber</span>
+                </div>
+                <div class="roshetaHeadTitle">
+                    <label>Next Visit :</label>
+                    <span> @Model.Head.NextVisit</span>
+                </div>
+                <div class="roshetaHeadTitle">
+                    <label>Requirements And Notes :</label>
+                    <span>@Model.Head.Notes</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <table class="table table-rosheta bg-white table-edite mt-40">
+            <thead>
+                <tr>
+                    <th scope="col">Medicine</th>
+                    <th scope="col">How to use</th>
+                    <th scope="col">Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Body)
+                {
+                    <tr>
+                        <td>@item.Name</td>
+                        <td>@item.TreatmentMethod</td>
+                        <td>@item.Qty</td>
+                    </tr>
+                }
+
+
+            </tbody>
+        </table>
+        <h5>Code : @Model.Head.RoshetaId</h5>
+    </div>
+</div>
+
